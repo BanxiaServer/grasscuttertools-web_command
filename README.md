@@ -2,5 +2,5 @@
 
 https://github.com/jie65535/GrasscutterCommandGenerator/tree/main/Source/GrasscutterTools/Resources/zh-cn
 将这里的文件放在input文件夹
-运行io.name
+运行io.py
 输出结果存储在output文件夹内
