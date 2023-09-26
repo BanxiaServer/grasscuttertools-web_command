@@ -3,6 +3,7 @@ import json
 
 input_folder = "./input"
 output_folder = "./output"
+specific_filenames = ["CustomCommands.txt","PlayerProperty.txt"]# 跳过这两个文件
 
 # 检查输出文件夹是否存在，如果不存在则创建
 os.makedirs(output_folder, exist_ok=True)
@@ -13,8 +14,15 @@ for filename in os.listdir(input_folder):
         txt_file_path = os.path.join(input_folder, filename)
         json_file_path = os.path.join(output_folder, filename.replace('.txt', '.json'))
 
+        # 检查文件名是否在特定文件名列表中
+    if filename in specific_filenames:
+        continue  # 跳过当前文件
+
+    # 执行原來的操作，例如读取文件并进行更改
+    with open(txt_file_path, 'r') as input_file:
+        
         # 读取txt文件内容并去除注释行
-        with open(txt_file_path, 'r', encoding='utf-8') as file:
+        with open(txt_file_path, 'r', encoding='utf-8-sig') as file:
             lines = file.readlines()
         
         input_text = ""
