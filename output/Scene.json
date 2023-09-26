@@ -1,0 +1,4542 @@
+[
+    {
+        "label": "BigWorld_LevelStreaming",
+        "value": 1
+    },
+    {
+        "label": "BigWorld_LevelStreaming",
+        "value": 2
+    },
+    {
+        "label": "提瓦特",
+        "value": 3
+    },
+    {
+        "label": "金苹果群岛(1.6)",
+        "value": 4
+    },
+    {
+        "label": "渊下宫",
+        "value": 5
+    },
+    {
+        "label": "层岩巨渊·地下矿区",
+        "value": 6
+    },
+    {
+        "label": "三界路飨祭",
+        "value": 7
+    },
+    {
+        "label": "金苹果群岛(2.8)",
+        "value": 9
+    },
+    {
+        "label": "Penumbra_LevelStreaming",
+        "value": 10
+    },
+    {
+        "label": "移动平台性能测试(test)",
+        "value": 1001
+    },
+    {
+        "label": "攀爬测试2",
+        "value": 1002
+    },
+    {
+        "label": "TheBigWorld",
+        "value": 1003
+    },
+    {
+        "label": "Knight_Inside_Test",
+        "value": 1004
+    },
+    {
+        "label": "ChurchSteal",
+        "value": 1005
+    },
+    {
+        "label": "密林、废墟与龙之泪",
+        "value": 1006
+    },
+    {
+        "label": "ChurchLobby",
+        "value": 1008
+    },
+    {
+        "label": "AngelShare",
+        "value": 1009
+    },
+    {
+        "label": "角色战斗测试(test)",
+        "value": 1011
+    },
+    {
+        "label": "SneakAdvancedTest",
+        "value": 1013
+    },
+    {
+        "label": "飞翔是勇气的奖励",
+        "value": 1015
+    },
+    {
+        "label": "飞翔是勇气的奖励",
+        "value": 1016
+    },
+    {
+        "label": "壶中天",
+        "value": 1017
+    },
+    {
+        "label": "Chateau",
+        "value": 1018
+    },
+    {
+        "label": "洞天云海地城玩法测试(test)",
+        "value": 1019
+    },
+    {
+        "label": "Level_Yurenzhong",
+        "value": 1023
+    },
+    {
+        "label": "突破：清扫遗迹中的魔物(test)",
+        "value": 1024
+    },
+    {
+        "label": "TestIntercept_LiYue",
+        "value": 1030
+    },
+    {
+        "label": "爬塔丘丘人模板(test)",
+        "value": 1031
+    },
+    {
+        "label": "云海白盒测试(test)",
+        "value": 1032
+    },
+    {
+        "label": "Indoor_Ly_Bank",
+        "value": 1033
+    },
+    {
+        "label": "Indoor_Ly_Liuliting",
+        "value": 1034
+    },
+    {
+        "label": "Indoor_Ly_Xinyuexuan",
+        "value": 1035
+    },
+    {
+        "label": "水boss测试场景(test)",
+        "value": 1050
+    },
+    {
+        "label": "群玉阁剧情",
+        "value": 1051
+    },
+    {
+        "label": "留云借风洞天",
+        "value": 1052
+    },
+    {
+        "label": "壶中天_轻量变形1(test)",
+        "value": 1053
+    },
+    {
+        "label": "壶中天_轻量变形2(test)",
+        "value": 1054
+    },
+    {
+        "label": "「独眼小宝大世界」",
+        "value": 1055
+    },
+    {
+        "label": "盐中之谜",
+        "value": 1056
+    },
+    {
+        "label": "Indoor_Ly_Qunyuge",
+        "value": 1057
+    },
+    {
+        "label": "留云借风洞天",
+        "value": 1058
+    },
+    {
+        "label": "步入「边界」",
+        "value": 1059
+    },
+    {
+        "label": "木漏茶室",
+        "value": 1060
+    },
+    {
+        "label": "社奉行本部",
+        "value": 1061
+    },
+    {
+        "label": "山中隐秘之地",
+        "value": 1062
+    },
+    {
+        "label": "天守阁",
+        "value": 1063
+    },
+    {
+        "label": "天领奉行府",
+        "value": 1064
+    },
+    {
+        "label": "天领奉行府",
+        "value": 1065
+    },
+    {
+        "label": "IndoorScene_Dq_Uyutei",
+        "value": 1066
+    },
+    {
+        "label": "蒙德酒馆测试BAT版本1.0",
+        "value": 1068
+    },
+    {
+        "label": "巨渊深底",
+        "value": 1069
+    },
+    {
+        "label": "Level_Tower_Moon_01",
+        "value": 1070
+    },
+    {
+        "label": "被占领的旧地",
+        "value": 1071
+    },
+    {
+        "label": "须弥酒馆",
+        "value": 1072
+    },
+    {
+        "label": "智慧宫",
+        "value": 1073
+    },
+    {
+        "label": "须弥咖啡馆",
+        "value": 1074
+    },
+    {
+        "label": "净善宫",
+        "value": 1075
+    },
+    {
+        "label": "IndoorScene_Md_CattailTavern",
+        "value": 1076
+    },
+    {
+        "label": "村长家",
+        "value": 1077
+    },
+    {
+        "label": "IndoorScene_Xm_Zls",
+        "value": 1078
+    },
+    {
+        "label": "IndoorScene_Xm_Zls",
+        "value": 1079
+    },
+    {
+        "label": "IndoorScene_Fd_ShuiXian",
+        "value": 1080
+    },
+    {
+        "label": "IndoorScene_Ly_Baizhu",
+        "value": 1082
+    },
+    {
+        "label": "IndoorScene_Fd_Yht",
+        "value": 1083
+    },
+    {
+        "label": "IndoorScene_Fd_Hotel",
+        "value": 1084
+    },
+    {
+        "label": "IndoorScene_Fd_Gjy",
+        "value": 1085
+    },
+    {
+        "label": "罗浮洞",
+        "value": 2001
+    },
+    {
+        "label": "翠黛峰",
+        "value": 2002
+    },
+    {
+        "label": "清琼岛",
+        "value": 2003
+    },
+    {
+        "label": "绘绮庭",
+        "value": 2004
+    },
+    {
+        "label": "Homeworld_Exterior_Sumeru",
+        "value": 2005
+    },
+    {
+        "label": "尘歌壶室内_蒙德",
+        "value": 2201
+    },
+    {
+        "label": "尘歌壶室内_璃月",
+        "value": 2202
+    },
+    {
+        "label": "尘歌壶室内_稻妻",
+        "value": 2203
+    },
+    {
+        "label": "Homeworld_Interior_Xm_Apt_01",
+        "value": 2204
+    },
+    {
+        "label": "关卡玩法测试(test)",
+        "value": 20000
+    },
+    {
+        "label": "一锤定音的食材",
+        "value": 20005
+    },
+    {
+        "label": "丘丘人大据点(test)",
+        "value": 20006
+    },
+    {
+        "label": "小岩洞秘境(test)",
+        "value": 20007
+    },
+    {
+        "label": "丘丘人巢穴(test)",
+        "value": 20008
+    },
+    {
+        "label": "深入鹰之殿",
+        "value": 20009
+    },
+    {
+        "label": "探索",
+        "value": 20010
+    },
+    {
+        "label": "深入狮之殿",
+        "value": 20011
+    },
+    {
+        "label": "愚人众营地(test)",
+        "value": 20012
+    },
+    {
+        "label": "凯亚战斗训练任务地城(test)",
+        "value": 20013
+    },
+    {
+        "label": "试炼",
+        "value": 20014
+    },
+    {
+        "label": "丽莎常驻地城低(test)",
+        "value": 20015
+    },
+    {
+        "label": "阿卡狄亚的失落秘宝",
+        "value": 20016
+    },
+    {
+        "label": "暴风般狂啸之龙",
+        "value": 20017
+    },
+    {
+        "label": "风魔龙-净化(test)",
+        "value": 20018
+    },
+    {
+        "label": "解读暗文的妙法",
+        "value": 20019
+    },
+    {
+        "label": "风魔龙-初战(test)",
+        "value": 20020
+    },
+    {
+        "label": "追击深渊法师",
+        "value": 20022
+    },
+    {
+        "label": "夺回天空之琴",
+        "value": 20023
+    },
+    {
+        "label": "Level_UCDungeon01",
+        "value": 20024
+    },
+    {
+        "label": "追忆：暴风般狂啸之龙 Ⅵ",
+        "value": 20025
+    },
+    {
+        "label": "突破：清扫遗迹中的魔物",
+        "value": 20026
+    },
+    {
+        "label": "突破：清扫遗迹中的魔物",
+        "value": 20027
+    },
+    {
+        "label": "突破：清扫遗迹中的魔物",
+        "value": 20028
+    },
+    {
+        "label": "夺回宝物",
+        "value": 20031
+    },
+    {
+        "label": "大冒险家斯坦利",
+        "value": 20032
+    },
+    {
+        "label": "追忆：黄金与孤影 IV",
+        "value": 20034
+    },
+    {
+        "label": "失落的忒耳摩冬遗迹",
+        "value": 20035
+    },
+    {
+        "label": "失落的埃伊亚遗迹",
+        "value": 20036
+    },
+    {
+        "label": "深入敌阵",
+        "value": 20037
+    },
+    {
+        "label": "黄金与孤影",
+        "value": 20101
+    },
+    {
+        "label": "再次偏航",
+        "value": 20102
+    },
+    {
+        "label": "「深渊」的踪迹",
+        "value": 20103
+    },
+    {
+        "label": "「深渊」的诱惑",
+        "value": 20104
+    },
+    {
+        "label": "「深渊」的诱惑",
+        "value": 20105
+    },
+    {
+        "label": "追忆：摇撼山岳之龙 IV",
+        "value": 20106
+    },
+    {
+        "label": "古树之底",
+        "value": 20107
+    },
+    {
+        "label": "追忆：摇撼山岳之龙 IV",
+        "value": 20108
+    },
+    {
+        "label": "追忆：摇撼山岳之龙 IV",
+        "value": 20109
+    },
+    {
+        "label": "追忆：摇撼山岳之龙 IV",
+        "value": 20110
+    },
+    {
+        "label": "町奉行所收监处",
+        "value": 20111
+    },
+    {
+        "label": "千手百眼",
+        "value": 20112
+    },
+    {
+        "label": "邪眼工厂",
+        "value": 20113
+    },
+    {
+        "label": "鸣神岛·天守",
+        "value": 20114
+    },
+    {
+        "label": "追忆：红莲的真剑试合 IV",
+        "value": 20115
+    },
+    {
+        "label": "雷电将军个人线千手百眼（test)",
+        "value": 20116
+    },
+    {
+        "label": "千手百眼二阶段(test)",
+        "value": 20117
+    },
+    {
+        "label": "小说家的冒险(test)",
+        "value": 20118
+    },
+    {
+        "label": "摇摇欲坠的罪恶",
+        "value": 20119
+    },
+    {
+        "label": "漩涡之下",
+        "value": 20120
+    },
+    {
+        "label": "鸣海栖霞洞天",
+        "value": 20121
+    },
+    {
+        "label": "雷电将军第二章（test）",
+        "value": 20122
+    },
+    {
+        "label": "降灵密室",
+        "value": 20123
+    },
+    {
+        "label": "武卫重溟",
+        "value": 20124
+    },
+    {
+        "label": "追忆：永恒的守护者 IV",
+        "value": 20125
+    },
+    {
+        "label": "（test)2.6容彩祭仓库",
+        "value": 20126
+    },
+    {
+        "label": "鹤径折旋之所",
+        "value": 20127
+    },
+    {
+        "label": "机符遁藏之城",
+        "value": 20128
+    },
+    {
+        "label": "迷错幻渺之境",
+        "value": 20129
+    },
+    {
+        "label": "IndoorScene_Ly_CyRoom",
+        "value": 20130
+    },
+    {
+        "label": "青墟浦地下遗迹",
+        "value": 20131
+    },
+    {
+        "label": "须弥兰娜罗梦境地城(test)",
+        "value": 20132
+    },
+    {
+        "label": "烈火踏歌行",
+        "value": 20133
+    },
+    {
+        "label": "亘古的苍星",
+        "value": 20134
+    },
+    {
+        "label": "春庭景如旧·其二",
+        "value": 20135
+    },
+    {
+        "label": "亘古的苍星",
+        "value": 20136
+    },
+    {
+        "label": "幽夜默示录·其一",
+        "value": 20137
+    },
+    {
+        "label": "幽夜默示录·其二",
+        "value": 20138
+    },
+    {
+        "label": "幽夜默示录·其三",
+        "value": 20139
+    },
+    {
+        "label": "春庭景如旧·其三",
+        "value": 20140
+    },
+    {
+        "label": "幽夜默示录·其三",
+        "value": 20141
+    },
+    {
+        "label": "春庭景如旧·其一",
+        "value": 20142
+    },
+    {
+        "label": "幽夜默示录·其一",
+        "value": 20143
+    },
+    {
+        "label": "幽夜默示录·其二",
+        "value": 20144
+    },
+    {
+        "label": "(test)3.0零级WQ织梦之森一次性地城",
+        "value": 20145
+    },
+    {
+        "label": "(test)3.0零级WQ唤雨之森一次性地城",
+        "value": 20146
+    },
+    {
+        "label": "(test)3.0零级WQ失落之森一次性地城",
+        "value": 20147
+    },
+    {
+        "label": "(test)3.0零级WQ葱头地城",
+        "value": 20148
+    },
+    {
+        "label": "污染区的源头",
+        "value": 20149
+    },
+    {
+        "label": "世界树地城(test)",
+        "value": 20150
+    },
+    {
+        "label": "神秘的遗迹",
+        "value": 20151
+    },
+    {
+        "label": "(test)3.2散兵boss地城",
+        "value": 20152
+    },
+    {
+        "label": "(test)草龙boss白盒",
+        "value": 20153
+    },
+    {
+        "label": "追忆：七叶中尊琉璃坛 IV",
+        "value": 20154
+    },
+    {
+        "label": "Level_ScaramoucheBoss",
+        "value": 20155
+    },
+    {
+        "label": "Level_ScaramoucheBoss",
+        "value": 20156
+    },
+    {
+        "label": "归寂之庭",
+        "value": 20157
+    },
+    {
+        "label": "大慈树王的残留意识",
+        "value": 20158
+    },
+    {
+        "label": "沙下灵囿",
+        "value": 20159
+    },
+    {
+        "label": "蜃气楼的后台",
+        "value": 20160
+    },
+    {
+        "label": "终端的一隅",
+        "value": 20161
+    },
+    {
+        "label": "（test）图书馆地城版本",
+        "value": 20162
+    },
+    {
+        "label": "「降神工坊」",
+        "value": 20163
+    },
+    {
+        "label": "「那一日」的世界树下",
+        "value": 20164
+    },
+    {
+        "label": "3.2梦境俱乐部(test)",
+        "value": 20165
+    },
+    {
+        "label": "3.3间章地城01(test)",
+        "value": 20166
+    },
+    {
+        "label": "3.3间章地城02(test)",
+        "value": 20167
+    },
+    {
+        "label": "正机之神殿",
+        "value": 20168
+    },
+    {
+        "label": "漂浮的回忆",
+        "value": 20169
+    },
+    {
+        "label": "3.3间章地城03（test）",
+        "value": 20170
+    },
+    {
+        "label": "3.3间章地城04（test）",
+        "value": 20171
+    },
+    {
+        "label": "3.3间章地城05（test）",
+        "value": 20172
+    },
+    {
+        "label": "隐秘山洞",
+        "value": 20173
+    },
+    {
+        "label": "智慧空间1（test）",
+        "value": 20174
+    },
+    {
+        "label": "智慧空间2（test）",
+        "value": 20175
+    },
+    {
+        "label": "智慧空间3（test）",
+        "value": 20176
+    },
+    {
+        "label": "昔日「荣光」已逝",
+        "value": 20177
+    },
+    {
+        "label": "未知的「圣所」",
+        "value": 20178
+    },
+    {
+        "label": "追忆：「它们」也曾完美无瑕 IV",
+        "value": 20179
+    },
+    {
+        "label": "3.5双子线镜像大世界（test）",
+        "value": 20180
+    },
+    {
+        "label": "未知的「圣所」",
+        "value": 20181
+    },
+    {
+        "label": "旧梦痴缠之故地",
+        "value": 20182
+    },
+    {
+        "label": "(test)3.8主线地城",
+        "value": 20183
+    },
+    {
+        "label": "test 草龙地城剧情版",
+        "value": 20185
+    },
+    {
+        "label": "水之奥秘",
+        "value": 20186
+    },
+    {
+        "label": "魔术工坊",
+        "value": 20187
+    },
+    {
+        "label": "迷雾迷宫(test)",
+        "value": 30001
+    },
+    {
+        "label": "爬塔第一层-第1关(test)",
+        "value": 30100
+    },
+    {
+        "label": "爬塔第一层-第2关(test)",
+        "value": 30101
+    },
+    {
+        "label": "爬塔第一层-第3关(test)",
+        "value": 30102
+    },
+    {
+        "label": "爬塔第一层-第4关(test)",
+        "value": 30103
+    },
+    {
+        "label": "爬塔第一层-第5关(test)",
+        "value": 30104
+    },
+    {
+        "label": "爬塔第二层-第1关(test)",
+        "value": 30200
+    },
+    {
+        "label": "爬塔第二层-第2关(test)",
+        "value": 30201
+    },
+    {
+        "label": "爬塔第二层-第3关(test)",
+        "value": 30202
+    },
+    {
+        "label": "爬塔第二层-第4关(test)",
+        "value": 30203
+    },
+    {
+        "label": "爬塔第二层-第5关(test)",
+        "value": 30204
+    },
+    {
+        "label": "爬塔第三层-第1关(test)",
+        "value": 30300
+    },
+    {
+        "label": "爬塔第三层-第2关(test)",
+        "value": 30301
+    },
+    {
+        "label": "爬塔第三层-第3关(test)",
+        "value": 30302
+    },
+    {
+        "label": "爬塔第三层-第4关(test)",
+        "value": 30303
+    },
+    {
+        "label": "爬塔第三层-第5关(test)",
+        "value": 30304
+    },
+    {
+        "label": "爬塔第四层-第1关(test)",
+        "value": 30400
+    },
+    {
+        "label": "爬塔第四层-第2关(test)",
+        "value": 30401
+    },
+    {
+        "label": "爬塔第四层-第3关(test)",
+        "value": 30402
+    },
+    {
+        "label": "爬塔第四层-第4关(test)",
+        "value": 30403
+    },
+    {
+        "label": "爬塔第四层-第5关(test)",
+        "value": 30404
+    },
+    {
+        "label": "爬塔第五层-第1关(test)",
+        "value": 30500
+    },
+    {
+        "label": "爬塔第五层-第2关(test)",
+        "value": 30501
+    },
+    {
+        "label": "爬塔第五层-第3关(test)",
+        "value": 30502
+    },
+    {
+        "label": "爬塔第五层-第4关(test)",
+        "value": 30503
+    },
+    {
+        "label": "爬塔第五层-第5关(test)",
+        "value": 30504
+    },
+    {
+        "label": "爬塔第六层-第1关(test)",
+        "value": 30600
+    },
+    {
+        "label": "爬塔第六层-第2关(test)",
+        "value": 30601
+    },
+    {
+        "label": "爬塔第六层-第3关(test)",
+        "value": 30602
+    },
+    {
+        "label": "爬塔第六层-第4关(test)",
+        "value": 30603
+    },
+    {
+        "label": "爬塔第六层-第5关(test)",
+        "value": 30604
+    },
+    {
+        "label": "爬塔第七层-第1关(test)",
+        "value": 30700
+    },
+    {
+        "label": "爬塔第七层-第2关(test)",
+        "value": 30701
+    },
+    {
+        "label": "爬塔第七层-第3关(test)",
+        "value": 30702
+    },
+    {
+        "label": "爬塔第七层-第4关(test)",
+        "value": 30703
+    },
+    {
+        "label": "爬塔第七层-第5关(test)",
+        "value": 30704
+    },
+    {
+        "label": "爬塔第八层-第1关(test)",
+        "value": 30800
+    },
+    {
+        "label": "爬塔第八层-第2关(test)",
+        "value": 30801
+    },
+    {
+        "label": "爬塔第八层-第3关(test)",
+        "value": 30802
+    },
+    {
+        "label": "爬塔第八层-第4关(test)",
+        "value": 30803
+    },
+    {
+        "label": "爬塔第八层-第5关(test)",
+        "value": 30804
+    },
+    {
+        "label": "爬塔第九层-第1关(test)",
+        "value": 30900
+    },
+    {
+        "label": "爬塔第九层-第2关(test)",
+        "value": 30901
+    },
+    {
+        "label": "爬塔第九层-第3关(test)",
+        "value": 30902
+    },
+    {
+        "label": "爬塔第九层-第4关(test)",
+        "value": 30903
+    },
+    {
+        "label": "爬塔第九层-第5关(test)",
+        "value": 30904
+    },
+    {
+        "label": "爬塔第十层-第1关(test)",
+        "value": 31000
+    },
+    {
+        "label": "爬塔第十层-第2关(test)",
+        "value": 31001
+    },
+    {
+        "label": "爬塔第十层-第3关(test)",
+        "value": 31002
+    },
+    {
+        "label": "爬塔第十层-第4关(test)",
+        "value": 31003
+    },
+    {
+        "label": "爬塔第十层-第5关(test)",
+        "value": 31004
+    },
+    {
+        "label": "爬塔第十一层-第1关(test)",
+        "value": 31100
+    },
+    {
+        "label": "爬塔第十一层-第2关(test)",
+        "value": 31101
+    },
+    {
+        "label": "爬塔第十一层-第3关(test)",
+        "value": 31102
+    },
+    {
+        "label": "爬塔第十一层-第4关(test)",
+        "value": 31103
+    },
+    {
+        "label": "爬塔第十一层-第5关(test)",
+        "value": 31104
+    },
+    {
+        "label": "爬塔第十二层-第1关(test)",
+        "value": 31200
+    },
+    {
+        "label": "爬塔第十二层-第2关(test)",
+        "value": 31201
+    },
+    {
+        "label": "爬塔第十二层-第3关(test)",
+        "value": 31202
+    },
+    {
+        "label": "爬塔第十二层-第4关(test)",
+        "value": 31203
+    },
+    {
+        "label": "爬塔第十二层-第5关(test)",
+        "value": 31204
+    },
+    {
+        "label": "爬塔第十三层-第1关(test)",
+        "value": 31300
+    },
+    {
+        "label": "爬塔第十三层-第2关(test)",
+        "value": 31301
+    },
+    {
+        "label": "爬塔第十三层-第3关(test)",
+        "value": 31302
+    },
+    {
+        "label": "爬塔第十三层-第4关(test)",
+        "value": 31303
+    },
+    {
+        "label": "爬塔第十三层-第5关(test)",
+        "value": 31304
+    },
+    {
+        "label": "爬塔第十四层-第1关(test)",
+        "value": 31400
+    },
+    {
+        "label": "爬塔第十四层-第2关(test)",
+        "value": 31401
+    },
+    {
+        "label": "爬塔第十四层-第3关(test)",
+        "value": 31402
+    },
+    {
+        "label": "爬塔第十四层-第4关(test)",
+        "value": 31403
+    },
+    {
+        "label": "爬塔第十四层-第5关(test)",
+        "value": 31404
+    },
+    {
+        "label": "爬塔第十五层-第1关(test)",
+        "value": 31500
+    },
+    {
+        "label": "爬塔第十五层-第2关(test)",
+        "value": 31501
+    },
+    {
+        "label": "爬塔第十五层-第3关(test)",
+        "value": 31502
+    },
+    {
+        "label": "爬塔第十五层-第4关(test)",
+        "value": 31503
+    },
+    {
+        "label": "爬塔第十五层-第5关(test)",
+        "value": 31504
+    },
+    {
+        "label": "爬塔第十六层-第1关(test)",
+        "value": 31600
+    },
+    {
+        "label": "爬塔第十六层-第2关(test)",
+        "value": 31601
+    },
+    {
+        "label": "爬塔第十六层-第3关(test)",
+        "value": 31602
+    },
+    {
+        "label": "爬塔第十六层-第4关(test)",
+        "value": 31603
+    },
+    {
+        "label": "爬塔第十六层-第5关(test)",
+        "value": 31604
+    },
+    {
+        "label": "爬塔第十七层-第1关(test)",
+        "value": 31700
+    },
+    {
+        "label": "爬塔第十七层-第2关(test)",
+        "value": 31701
+    },
+    {
+        "label": "爬塔第十七层-第3关(test)",
+        "value": 31702
+    },
+    {
+        "label": "爬塔第十七层-第4关(test)",
+        "value": 31703
+    },
+    {
+        "label": "爬塔第十七层-第5关(test)",
+        "value": 31704
+    },
+    {
+        "label": "爬塔第十八层-第1关(test)",
+        "value": 31800
+    },
+    {
+        "label": "爬塔第十八层-第2关(test)",
+        "value": 31801
+    },
+    {
+        "label": "爬塔第十八层-第3关(test)",
+        "value": 31802
+    },
+    {
+        "label": "爬塔第十八层-第4关(test)",
+        "value": 31803
+    },
+    {
+        "label": "爬塔第十八层-第5关(test)",
+        "value": 31804
+    },
+    {
+        "label": "爬塔第十九层-第1关(test)",
+        "value": 31900
+    },
+    {
+        "label": "爬塔第十九层-第2关(test)",
+        "value": 31901
+    },
+    {
+        "label": "爬塔第十九层-第3关(test)",
+        "value": 31902
+    },
+    {
+        "label": "爬塔第十九层-第4关(test)",
+        "value": 31903
+    },
+    {
+        "label": "爬塔第十九层-第5关(test)",
+        "value": 31904
+    },
+    {
+        "label": "爬塔第二十层-第1关(test)",
+        "value": 32000
+    },
+    {
+        "label": "爬塔第二十层-第2关(test)",
+        "value": 32001
+    },
+    {
+        "label": "爬塔第二十层-第3关(test)",
+        "value": 32002
+    },
+    {
+        "label": "爬塔第二十层-第4关(test)",
+        "value": 32003
+    },
+    {
+        "label": "爬塔第二十层-第5关(test)",
+        "value": 32004
+    },
+    {
+        "label": "爬塔第二十一层-第1关(test)",
+        "value": 32100
+    },
+    {
+        "label": "爬塔第二十一层-第2关(test)",
+        "value": 32101
+    },
+    {
+        "label": "爬塔第二十一层-第3关(test)",
+        "value": 32102
+    },
+    {
+        "label": "爬塔第二十一层-第4关(test)",
+        "value": 32103
+    },
+    {
+        "label": "爬塔第二十一层-第5关(test)",
+        "value": 32104
+    },
+    {
+        "label": "爬塔第二十二层-第1关(test)",
+        "value": 32200
+    },
+    {
+        "label": "爬塔第二十二层-第2关(test)",
+        "value": 32201
+    },
+    {
+        "label": "爬塔第二十二层-第3关(test)",
+        "value": 32202
+    },
+    {
+        "label": "爬塔第二十二层-第4关(test)",
+        "value": 32203
+    },
+    {
+        "label": "爬塔第二十二层-第5关(test)",
+        "value": 32204
+    },
+    {
+        "label": "爬塔第一档-ZHT第1关（单路）(test)",
+        "value": 33100
+    },
+    {
+        "label": "爬塔第一档-ZHT第2关（单路）(test)",
+        "value": 33101
+    },
+    {
+        "label": "爬塔第一档-ZHT第3关（单路）(test)",
+        "value": 33102
+    },
+    {
+        "label": "爬塔第一档-ZHT第4关（单路）(test)",
+        "value": 33103
+    },
+    {
+        "label": "爬塔第一档-第五层第1关（双路）(test)",
+        "value": 33401
+    },
+    {
+        "label": "爬塔第一档-第六层第1关（双路）(test)",
+        "value": 33402
+    },
+    {
+        "label": "爬塔第一档-第七层第1关（双路）(test)",
+        "value": 33403
+    },
+    {
+        "label": "爬塔第一档-第八层第1关（双路）(test)",
+        "value": 33404
+    },
+    {
+        "label": "爬塔第一档-MC第1关（双路）(test)",
+        "value": 33700
+    },
+    {
+        "label": "爬塔第一档-MC第2关（双路）(test)",
+        "value": 33701
+    },
+    {
+        "label": "爬塔第一档-MC第3关（双路）(test)",
+        "value": 33702
+    },
+    {
+        "label": "爬塔第一档-MC第4关（双路）(test)",
+        "value": 33703
+    },
+    {
+        "label": "爬塔第一档-MC第5关（双路）(test)",
+        "value": 33704
+    },
+    {
+        "label": "爬塔第一档-MC第6关（双路）(test)",
+        "value": 33705
+    },
+    {
+        "label": "爬塔第一档-MC第7关（双路）(test)",
+        "value": 33706
+    },
+    {
+        "label": "爬塔第一档-MC第8关（双路）(test)",
+        "value": 33707
+    },
+    {
+        "label": "爬塔第一档-MC第9关（双路）(test)",
+        "value": 33708
+    },
+    {
+        "label": "爬塔第一档-MC第10关（双路）(test)",
+        "value": 33709
+    },
+    {
+        "label": "爬塔第一档-MC第11关（双路）(test)",
+        "value": 33710
+    },
+    {
+        "label": "爬塔第一档-MC第12关（双路）(test)",
+        "value": 33711
+    },
+    {
+        "label": "爬塔第一档-MC第13关（双路）(test)",
+        "value": 33712
+    },
+    {
+        "label": "爬塔第一档-MC第14关（双路）(test)",
+        "value": 33713
+    },
+    {
+        "label": "爬塔第一档-MC第15关（双路）(test)",
+        "value": 33714
+    },
+    {
+        "label": "爬塔第一档-MC第16关（双路）(test)",
+        "value": 33715
+    },
+    {
+        "label": "爬塔第一档-MC第17关（双路）(test)",
+        "value": 33716
+    },
+    {
+        "label": "爬塔第一档-MC第18关（双路）(test)",
+        "value": 33717
+    },
+    {
+        "label": "爬塔第一档-MC第19关（双路）(test)",
+        "value": 33718
+    },
+    {
+        "label": "爬塔第一档-MC第20关（双路）(test)",
+        "value": 33719
+    },
+    {
+        "label": "爬塔第一档-MC第21关（双路）(test)",
+        "value": 33720
+    },
+    {
+        "label": "爬塔第一档-MC第22关（双路）(test)",
+        "value": 33721
+    },
+    {
+        "label": "爬塔第一档-MC第23关（双路）(test)",
+        "value": 33722
+    },
+    {
+        "label": "爬塔第一档-MC第24关（双路）(test)",
+        "value": 33723
+    },
+    {
+        "label": "爬塔第一档-MC第25关（双路）(test)",
+        "value": 33724
+    },
+    {
+        "label": "爬塔第一档-MC第26关（双路）(test)",
+        "value": 33725
+    },
+    {
+        "label": "爬塔第一档-MC第27关（双路）(test)",
+        "value": 33726
+    },
+    {
+        "label": "爬塔第一档-MC第28关（双路）(test)",
+        "value": 33727
+    },
+    {
+        "label": "爬塔第一档-MC第29关（双路）(test)",
+        "value": 33728
+    },
+    {
+        "label": "爬塔第一档-MC第30关（双路）(test)",
+        "value": 33729
+    },
+    {
+        "label": "爬塔第一档-MC第31关（双路）(test)",
+        "value": 33730
+    },
+    {
+        "label": "爬塔第一档-MC第32关（双路）(test)",
+        "value": 33731
+    },
+    {
+        "label": "爬塔第一档-MC第33关（双路）(test)",
+        "value": 33732
+    },
+    {
+        "label": "爬塔第一档-MC第34关（双路）(test)",
+        "value": 33733
+    },
+    {
+        "label": "爬塔第一档-MC第35关（双路）(test)",
+        "value": 33734
+    },
+    {
+        "label": "爬塔第一档-MC第36关（双路）(test)",
+        "value": 33735
+    },
+    {
+        "label": "爬塔第一档-MC第37关（双路）(test)",
+        "value": 33736
+    },
+    {
+        "label": "爬塔第一档-MC第38关（双路）(test)",
+        "value": 33737
+    },
+    {
+        "label": "爬塔第一档-MC第39关（双路）(test)",
+        "value": 33738
+    },
+    {
+        "label": "爬塔第一档-MC第40关（双路）(test)",
+        "value": 33739
+    },
+    {
+        "label": "爬塔第一档-MC第41关（双路）(test)",
+        "value": 33740
+    },
+    {
+        "label": "爬塔第一档-MC第42关（双路）(test)",
+        "value": 33741
+    },
+    {
+        "label": "爬塔第一档-MC第43关（双路）(test)",
+        "value": 33742
+    },
+    {
+        "label": "爬塔第一档-MC第44关（双路）(test)",
+        "value": 33743
+    },
+    {
+        "label": "爬塔第一档-MC第45关（双路）(test)",
+        "value": 33744
+    },
+    {
+        "label": "爬塔第一档-MC第46关（双路）(test)",
+        "value": 33745
+    },
+    {
+        "label": "爬塔第一档-MC第47关（双路）(test)",
+        "value": 33746
+    },
+    {
+        "label": "爬塔第一档-MC第48关（双路）(test)",
+        "value": 33747
+    },
+    {
+        "label": "爬塔第一档-MC第49关（双路）(test)",
+        "value": 33748
+    },
+    {
+        "label": "爬塔第一档-MC第50关（双路）(test)",
+        "value": 33749
+    },
+    {
+        "label": "爬塔第一档-MC第51关（双路）(test)",
+        "value": 33750
+    },
+    {
+        "label": "爬塔第一档-MC第52关（双路）(test)",
+        "value": 33751
+    },
+    {
+        "label": "爬塔第一档-MC第53关（双路）(test)",
+        "value": 33752
+    },
+    {
+        "label": "爬塔第一档-MC第54关（双路）(test)",
+        "value": 33753
+    },
+    {
+        "label": "爬塔第一档-MC第55关（双路）(test)",
+        "value": 33754
+    },
+    {
+        "label": "爬塔第一档-MC第56关（双路）(test)",
+        "value": 33755
+    },
+    {
+        "label": "爬塔第一档-MC第57关（双路）(test)",
+        "value": 33756
+    },
+    {
+        "label": "爬塔第一档-MC第58关（双路）(test)",
+        "value": 33757
+    },
+    {
+        "label": "爬塔第一档-MC第59关（双路）(test)",
+        "value": 33758
+    },
+    {
+        "label": "爬塔第一档-MC第60关（双路）(test)",
+        "value": 33759
+    },
+    {
+        "label": "爬塔第一档-MC第61关（双路）(test)",
+        "value": 33760
+    },
+    {
+        "label": "爬塔第二档-ZHT第1关（单路）(test)",
+        "value": 34100
+    },
+    {
+        "label": "爬塔第二档-ZHT第2关（单路）(test)",
+        "value": 34101
+    },
+    {
+        "label": "爬塔第二档-ZHT第3关（单路）(test)",
+        "value": 34102
+    },
+    {
+        "label": "爬塔第二档-ZHT第4关（单路）(test)",
+        "value": 34103
+    },
+    {
+        "label": "爬塔第二档-第五层第2关（双路）(test)",
+        "value": 34401
+    },
+    {
+        "label": "爬塔第二档-第六层第2关（双路）(test)",
+        "value": 34402
+    },
+    {
+        "label": "爬塔第二档-第七层第2关（双路）(test)",
+        "value": 34403
+    },
+    {
+        "label": "爬塔第二档-第八层第2关（双路）(test)",
+        "value": 34404
+    },
+    {
+        "label": "爬塔第二档-MC第1关（双路）(test)",
+        "value": 34700
+    },
+    {
+        "label": "爬塔第二档-MC第2关（双路）(test)",
+        "value": 34701
+    },
+    {
+        "label": "爬塔第二档-MC第3关（双路）(test)",
+        "value": 34702
+    },
+    {
+        "label": "爬塔第二档-MC第4关（双路）(test)",
+        "value": 34703
+    },
+    {
+        "label": "爬塔第二档-MC第5关（双路）(test)",
+        "value": 34704
+    },
+    {
+        "label": "爬塔第二档-MC第6关（双路）(test)",
+        "value": 34705
+    },
+    {
+        "label": "爬塔第二档-MC第7关（双路）(test)",
+        "value": 34706
+    },
+    {
+        "label": "爬塔第二档-MC第8关（双路）(test)",
+        "value": 34707
+    },
+    {
+        "label": "爬塔第二档-MC第9关（双路）(test)",
+        "value": 34708
+    },
+    {
+        "label": "爬塔第二档-MC第10关（双路）(test)",
+        "value": 34709
+    },
+    {
+        "label": "爬塔第二档-MC第11关（双路）(test)",
+        "value": 34710
+    },
+    {
+        "label": "爬塔第二档-MC第12关（双路）(test)",
+        "value": 34711
+    },
+    {
+        "label": "爬塔第二档-MC第13关（双路）(test)",
+        "value": 34712
+    },
+    {
+        "label": "爬塔第二档-MC第14关（双路）(test)",
+        "value": 34713
+    },
+    {
+        "label": "爬塔第二档-MC第15关（双路）(test)",
+        "value": 34714
+    },
+    {
+        "label": "爬塔第二档-MC第16关（双路）(test)",
+        "value": 34715
+    },
+    {
+        "label": "爬塔第二档-MC第17关（双路）(test)",
+        "value": 34716
+    },
+    {
+        "label": "爬塔第二档-MC第18关（双路）(test)",
+        "value": 34717
+    },
+    {
+        "label": "爬塔第二档-MC第19关（双路）(test)",
+        "value": 34718
+    },
+    {
+        "label": "爬塔第二档-MC第20关（双路）(test)",
+        "value": 34719
+    },
+    {
+        "label": "爬塔第二档-MC第21关（双路）(test)",
+        "value": 34720
+    },
+    {
+        "label": "爬塔第二档-MC第22关（双路）(test)",
+        "value": 34721
+    },
+    {
+        "label": "爬塔第二档-MC第23关（双路）(test)",
+        "value": 34722
+    },
+    {
+        "label": "爬塔第二档-MC第24关（双路）(test)",
+        "value": 34723
+    },
+    {
+        "label": "爬塔第二档-MC第25关（双路）(test)",
+        "value": 34724
+    },
+    {
+        "label": "爬塔第二档-MC第26关（双路）(test)",
+        "value": 34725
+    },
+    {
+        "label": "爬塔第二档-MC第27关（双路）(test)",
+        "value": 34726
+    },
+    {
+        "label": "爬塔第二档-MC第28关（双路）(test)",
+        "value": 34727
+    },
+    {
+        "label": "爬塔第二档-MC第29关（双路）(test)",
+        "value": 34728
+    },
+    {
+        "label": "爬塔第二档-MC第30关（双路）(test)",
+        "value": 34729
+    },
+    {
+        "label": "爬塔第二档-MC第31关（双路）(test)",
+        "value": 34730
+    },
+    {
+        "label": "爬塔第二档-MC第32关（双路）(test)",
+        "value": 34731
+    },
+    {
+        "label": "爬塔第二档-MC第33关（双路）(test)",
+        "value": 34732
+    },
+    {
+        "label": "爬塔第二档-MC第34关（双路）(test)",
+        "value": 34733
+    },
+    {
+        "label": "爬塔第二档-MC第35关（双路）(test)",
+        "value": 34734
+    },
+    {
+        "label": "爬塔第二档-MC第36关（双路）(test)",
+        "value": 34735
+    },
+    {
+        "label": "爬塔第二档-MC第37关（双路）(test)",
+        "value": 34736
+    },
+    {
+        "label": "爬塔第二档-MC第38关（双路）(test)",
+        "value": 34737
+    },
+    {
+        "label": "爬塔第二档-MC第39关（双路）(test)",
+        "value": 34738
+    },
+    {
+        "label": "爬塔第二档-MC第40关（双路）(test)",
+        "value": 34739
+    },
+    {
+        "label": "爬塔第二档-MC第41关（双路）(test)",
+        "value": 34740
+    },
+    {
+        "label": "爬塔第二档-MC第42关（双路）(test)",
+        "value": 34741
+    },
+    {
+        "label": "爬塔第二档-MC第43关（双路）(test)",
+        "value": 34742
+    },
+    {
+        "label": "爬塔第二档-MC第44关（双路）(test)",
+        "value": 34743
+    },
+    {
+        "label": "爬塔第二档-MC第45关（双路）(test)",
+        "value": 34744
+    },
+    {
+        "label": "爬塔第二档-MC第46关（双路）(test)",
+        "value": 34745
+    },
+    {
+        "label": "爬塔第二档-MC第47关（双路）(test)",
+        "value": 34746
+    },
+    {
+        "label": "爬塔第二档-MC第48关（双路）(test)",
+        "value": 34747
+    },
+    {
+        "label": "爬塔第二档-MC第49关（双路）(test)",
+        "value": 34748
+    },
+    {
+        "label": "爬塔第二档-MC第50关（双路）(test)",
+        "value": 34749
+    },
+    {
+        "label": "爬塔第二档-MC第51关（双路）(test)",
+        "value": 34750
+    },
+    {
+        "label": "爬塔第二档-MC第52关（双路）(test)",
+        "value": 34751
+    },
+    {
+        "label": "爬塔第二档-MC第53关（双路）(test)",
+        "value": 34752
+    },
+    {
+        "label": "爬塔第二档-MC第54关（双路）(test)",
+        "value": 34753
+    },
+    {
+        "label": "爬塔第二档-MC第55关（双路）(test)",
+        "value": 34754
+    },
+    {
+        "label": "爬塔第二档-MC第56关（双路）(test)",
+        "value": 34755
+    },
+    {
+        "label": "爬塔第二档-MC第57关（双路）(test)",
+        "value": 34756
+    },
+    {
+        "label": "爬塔第二档-MC第58关（双路）(test)",
+        "value": 34757
+    },
+    {
+        "label": "爬塔第二档-MC第59关（双路）(test)",
+        "value": 34758
+    },
+    {
+        "label": "爬塔第二档-MC第60关（双路）(test)",
+        "value": 34759
+    },
+    {
+        "label": "爬塔第二档-MC第61关（双路）(test)",
+        "value": 34760
+    },
+    {
+        "label": "爬塔第三档-ZHT第1关（单路）(test)",
+        "value": 35100
+    },
+    {
+        "label": "爬塔第三档-ZHT第2关（单路）(test)",
+        "value": 35101
+    },
+    {
+        "label": "爬塔第三档-ZHT第3关（单路）(test)",
+        "value": 35102
+    },
+    {
+        "label": "爬塔第三档-ZHT第4关（单路）(test)",
+        "value": 35103
+    },
+    {
+        "label": "爬塔第三档-第五层第3关（双路）(test)",
+        "value": 35401
+    },
+    {
+        "label": "爬塔第三档-第六层第3关（双路）(test)",
+        "value": 35402
+    },
+    {
+        "label": "爬塔第三档-第七层第3关（双路）(test)",
+        "value": 35403
+    },
+    {
+        "label": "爬塔第三档-第八层第3关（双路）(test)",
+        "value": 35404
+    },
+    {
+        "label": "爬塔第三档-MC第1关（双路）(test)",
+        "value": 35700
+    },
+    {
+        "label": "爬塔第三档-MC第2关（双路）(test)",
+        "value": 35701
+    },
+    {
+        "label": "爬塔第三档-MC第3关（双路）(test)",
+        "value": 35702
+    },
+    {
+        "label": "爬塔第三档-MC第4关（双路）(test)",
+        "value": 35703
+    },
+    {
+        "label": "爬塔第三档-MC第5关（双路）(test)",
+        "value": 35704
+    },
+    {
+        "label": "爬塔第三档-MC第6关（双路）(test)",
+        "value": 35705
+    },
+    {
+        "label": "爬塔第三档-MC第7关（双路）(test)",
+        "value": 35706
+    },
+    {
+        "label": "爬塔第三档-MC第8关（双路）(test)",
+        "value": 35707
+    },
+    {
+        "label": "爬塔第三档-MC第9关（双路）(test)",
+        "value": 35708
+    },
+    {
+        "label": "爬塔第三档-MC第10关（双路）(test)",
+        "value": 35709
+    },
+    {
+        "label": "爬塔第三档-MC第11关（双路）(test)",
+        "value": 35710
+    },
+    {
+        "label": "爬塔第三档-MC第12关（双路）(test)",
+        "value": 35711
+    },
+    {
+        "label": "爬塔第三档-MC第13关（双路）(test)",
+        "value": 35712
+    },
+    {
+        "label": "爬塔第三档-MC第14关（双路）(test)",
+        "value": 35713
+    },
+    {
+        "label": "爬塔第三档-MC第15关（双路）(test)",
+        "value": 35714
+    },
+    {
+        "label": "爬塔第三档-MC第16关（双路）(test)",
+        "value": 35715
+    },
+    {
+        "label": "爬塔第三档-MC第17关（双路）(test)",
+        "value": 35716
+    },
+    {
+        "label": "爬塔第三档-MC第18关（双路）(test)",
+        "value": 35717
+    },
+    {
+        "label": "爬塔第三档-MC第19关（双路）(test)",
+        "value": 35718
+    },
+    {
+        "label": "爬塔第三档-MC第20关（双路）(test)",
+        "value": 35719
+    },
+    {
+        "label": "爬塔第三档-MC第21关（双路）(test)",
+        "value": 35720
+    },
+    {
+        "label": "爬塔第三档-MC第22关（双路）(test)",
+        "value": 35721
+    },
+    {
+        "label": "爬塔第三档-MC第23关（双路）(test)",
+        "value": 35722
+    },
+    {
+        "label": "爬塔第三档-MC第24关（双路）(test)",
+        "value": 35723
+    },
+    {
+        "label": "爬塔第三档-MC第25关（双路）(test)",
+        "value": 35724
+    },
+    {
+        "label": "爬塔第三档-MC第26关（双路）(test)",
+        "value": 35725
+    },
+    {
+        "label": "爬塔第三档-MC第27关（双路）(test)",
+        "value": 35726
+    },
+    {
+        "label": "爬塔第三档-MC第28关（双路）(test)",
+        "value": 35727
+    },
+    {
+        "label": "爬塔第三档-MC第29关（双路）(test)",
+        "value": 35728
+    },
+    {
+        "label": "爬塔第三档-MC第30关（双路）(test)",
+        "value": 35729
+    },
+    {
+        "label": "爬塔第三档-MC第31关（双路）(test)",
+        "value": 35730
+    },
+    {
+        "label": "爬塔第三档-MC第32关（双路）(test)",
+        "value": 35731
+    },
+    {
+        "label": "爬塔第三档-MC第33关（双路）(test)",
+        "value": 35732
+    },
+    {
+        "label": "爬塔第三档-MC第34关（双路）(test)",
+        "value": 35733
+    },
+    {
+        "label": "爬塔第三档-MC第35关（双路）(test)",
+        "value": 35734
+    },
+    {
+        "label": "爬塔第三档-MC第36关（双路）(test)",
+        "value": 35735
+    },
+    {
+        "label": "爬塔第三档-MC第37关（双路）(test)",
+        "value": 35736
+    },
+    {
+        "label": "爬塔第三档-MC第38关（双路）(test)",
+        "value": 35737
+    },
+    {
+        "label": "爬塔第三档-MC第39关（双路）(test)",
+        "value": 35738
+    },
+    {
+        "label": "爬塔第三档-MC第40关（双路）(test)",
+        "value": 35739
+    },
+    {
+        "label": "爬塔第三档-MC第41关（双路）(test)",
+        "value": 35740
+    },
+    {
+        "label": "爬塔第三档-MC第42关（双路）(test)",
+        "value": 35741
+    },
+    {
+        "label": "爬塔第三档-MC第43关（双路）(test)",
+        "value": 35742
+    },
+    {
+        "label": "爬塔第三档-MC第44关（双路）(test)",
+        "value": 35743
+    },
+    {
+        "label": "爬塔第三档-MC第45关（双路）(test)",
+        "value": 35744
+    },
+    {
+        "label": "爬塔第三档-MC第46关（双路）(test)",
+        "value": 35745
+    },
+    {
+        "label": "爬塔第三档-MC第47关（双路）(test)",
+        "value": 35746
+    },
+    {
+        "label": "爬塔第三档-MC第48关（双路）(test)",
+        "value": 35747
+    },
+    {
+        "label": "爬塔第三档-MC第49关（双路）(test)",
+        "value": 35748
+    },
+    {
+        "label": "爬塔第三档-MC第50关（双路）(test)",
+        "value": 35749
+    },
+    {
+        "label": "爬塔第三档-MC第51关（双路）(test)",
+        "value": 35750
+    },
+    {
+        "label": "爬塔第三档-MC第52关（双路）(test)",
+        "value": 35751
+    },
+    {
+        "label": "爬塔第三档-MC第53关（双路）(test)",
+        "value": 35752
+    },
+    {
+        "label": "爬塔第三档-MC第54关（双路）(test)",
+        "value": 35753
+    },
+    {
+        "label": "爬塔第三档-MC第55关（双路）(test)",
+        "value": 35754
+    },
+    {
+        "label": "爬塔第三档-MC第56关（双路）(test)",
+        "value": 35755
+    },
+    {
+        "label": "爬塔第三档-MC第57关（双路）(test)",
+        "value": 35756
+    },
+    {
+        "label": "爬塔第三档-MC第58关（双路）(test)",
+        "value": 35757
+    },
+    {
+        "label": "爬塔第三档-MC第59关（双路）(test)",
+        "value": 35758
+    },
+    {
+        "label": "爬塔第三档-MC第60关（双路）(test)",
+        "value": 35759
+    },
+    {
+        "label": "爬塔第三档-MC第61关（双路）(test)",
+        "value": 35760
+    },
+    {
+        "label": "奇趣秘园",
+        "value": 35800
+    },
+    {
+        "label": "2.1换人挑战1阶段(test)",
+        "value": 35801
+    },
+    {
+        "label": "2.1换人挑战2阶段(test)",
+        "value": 35802
+    },
+    {
+        "label": "2.1换人挑战3阶段(test)",
+        "value": 35803
+    },
+    {
+        "label": "2.1换人挑战4阶段(test)",
+        "value": 35804
+    },
+    {
+        "label": "2.1换人挑战5阶段(test)",
+        "value": 35805
+    },
+    {
+        "label": "2.1换人挑战6阶段(test)",
+        "value": 35806
+    },
+    {
+        "label": "2.5百人二揆关卡1(test)",
+        "value": 35807
+    },
+    {
+        "label": "2.5百人二揆关卡2(test)",
+        "value": 35808
+    },
+    {
+        "label": "2.5百人二揆关卡3(test)",
+        "value": 35809
+    },
+    {
+        "label": "2.5百人二揆关卡4(test)",
+        "value": 35810
+    },
+    {
+        "label": "2.5百人二揆关卡5(test)",
+        "value": 35811
+    },
+    {
+        "label": "2.5百人二揆关卡6(test)",
+        "value": 35812
+    },
+    {
+        "label": "3.1百人三揆关卡1(test)",
+        "value": 35813
+    },
+    {
+        "label": "3.1百人三揆关卡2(test)",
+        "value": 35814
+    },
+    {
+        "label": "3.1百人三揆关卡3(test)",
+        "value": 35815
+    },
+    {
+        "label": "3.1百人三揆关卡4(test)",
+        "value": 35816
+    },
+    {
+        "label": "3.1百人三揆关卡5(test)",
+        "value": 35817
+    },
+    {
+        "label": "3.1百人三揆关卡6(test)",
+        "value": 35818
+    },
+    {
+        "label": "选BUFF挑战地城阶段一第1关（test）",
+        "value": 35820
+    },
+    {
+        "label": "选BUFF挑战地城阶段一第2关（test）",
+        "value": 35821
+    },
+    {
+        "label": "选BUFF挑战地城阶段一第3关（test）",
+        "value": 35822
+    },
+    {
+        "label": "选BUFF挑战地城阶段一第4关（test）",
+        "value": 35823
+    },
+    {
+        "label": "选BUFF挑战地城阶段二第1关（test）",
+        "value": 35824
+    },
+    {
+        "label": "选BUFF挑战地城阶段二第2关（test）",
+        "value": 35825
+    },
+    {
+        "label": "选BUFF挑战地城阶段二第3关（test）",
+        "value": 35826
+    },
+    {
+        "label": "选BUFF挑战地城阶段二第4关（test）",
+        "value": 35827
+    },
+    {
+        "label": "选BUFF挑战地城阶段三第1关（test）",
+        "value": 35828
+    },
+    {
+        "label": "选BUFF挑战地城阶段三第2关（test）",
+        "value": 35829
+    },
+    {
+        "label": "选BUFF挑战地城阶段三第3关（test）",
+        "value": 35830
+    },
+    {
+        "label": "选BUFF挑战地城阶段三第4关（test）",
+        "value": 35831
+    },
+    {
+        "label": "2.6连线buff挑战1(test)",
+        "value": 35840
+    },
+    {
+        "label": "2.6连线buff挑战2(test)",
+        "value": 35841
+    },
+    {
+        "label": "2.6连线buff挑战3(test)",
+        "value": 35842
+    },
+    {
+        "label": "2.6连线buff挑战4(test)",
+        "value": 35843
+    },
+    {
+        "label": "2.6连线buff挑战5(test)",
+        "value": 35844
+    },
+    {
+        "label": "2.6连线buff挑战6(test)",
+        "value": 35845
+    },
+    {
+        "label": "初次探索",
+        "value": 35846
+    },
+    {
+        "label": "直击强敌",
+        "value": 35847
+    },
+    {
+        "label": "初次探索",
+        "value": 35848
+    },
+    {
+        "label": "直击强敌",
+        "value": 35849
+    },
+    {
+        "label": "初次探索",
+        "value": 35850
+    },
+    {
+        "label": "直击强敌",
+        "value": 35851
+    },
+    {
+        "label": "初次探索",
+        "value": 35852
+    },
+    {
+        "label": "直击强敌",
+        "value": 35853
+    },
+    {
+        "label": "(test)爆炸魔药活动1",
+        "value": 35860
+    },
+    {
+        "label": "(test)爆炸魔药活动2",
+        "value": 35861
+    },
+    {
+        "label": "(test)爆炸魔药活动3",
+        "value": 35862
+    },
+    {
+        "label": "(test)爆炸魔药活动4",
+        "value": 35863
+    },
+    {
+        "label": "3.3大活动打砖块特殊关1(test)",
+        "value": 35870
+    },
+    {
+        "label": "3.3大活动打砖块特殊关2(test)",
+        "value": 35871
+    },
+    {
+        "label": "3.3大活动打砖块特殊关3(test)",
+        "value": 35872
+    },
+    {
+        "label": "3.5蕈兽2期地城L1(test)",
+        "value": 35873
+    },
+    {
+        "label": "3.5蕈兽2期地城L2(test)",
+        "value": 35874
+    },
+    {
+        "label": "3.5蕈兽2期地城L3(test)",
+        "value": 35875
+    },
+    {
+        "label": "3.5蕈兽2期地城L4(test)",
+        "value": 35876
+    },
+    {
+        "label": "3.5蕈兽2期地城L5(test)",
+        "value": 35877
+    },
+    {
+        "label": "3.5蕈兽2期地城L6(test)",
+        "value": 35878
+    },
+    {
+        "label": "3.5蕈兽2期地城L7(test)",
+        "value": 35879
+    },
+    {
+        "label": "(test)3.4连线挑战地城1",
+        "value": 35880
+    },
+    {
+        "label": "(test)3.4连线挑战地城2",
+        "value": 35881
+    },
+    {
+        "label": "(test)3.4连线挑战地城3",
+        "value": 35882
+    },
+    {
+        "label": "(test)3.4连线挑战地城4",
+        "value": 35883
+    },
+    {
+        "label": "(test)3.4连线挑战地城5",
+        "value": 35884
+    },
+    {
+        "label": "3.5连线buff挑战1(test)",
+        "value": 35890
+    },
+    {
+        "label": "3.5连线buff挑战2(test)",
+        "value": 35891
+    },
+    {
+        "label": "3.5连线buff挑战3(test)",
+        "value": 35892
+    },
+    {
+        "label": "3.5连线buff挑战4(test)",
+        "value": 35893
+    },
+    {
+        "label": "3.5连线buff挑战5(test)",
+        "value": 35894
+    },
+    {
+        "label": "3.5连线buff挑战6(test)",
+        "value": 35895
+    },
+    {
+        "label": "3.6大活动音L1猪校准(test)",
+        "value": 35896
+    },
+    {
+        "label": "3.6大活动音L2鼬校准(test)",
+        "value": 35897
+    },
+    {
+        "label": "3.6大活动音L3鱼校准(test)",
+        "value": 35898
+    },
+    {
+        "label": "3.5蕈兽2期地城-TASK(test)",
+        "value": 35899
+    },
+    {
+        "label": "3.6大活动路桥1(test)",
+        "value": 35900
+    },
+    {
+        "label": "3.6大活动路桥2(test)",
+        "value": 35901
+    },
+    {
+        "label": "3.6大活动路桥3(test)",
+        "value": 35902
+    },
+    {
+        "label": "3.6大活动战斗01(test)",
+        "value": 35903
+    },
+    {
+        "label": "3.6大活动战斗02(test)",
+        "value": 35904
+    },
+    {
+        "label": "3.6大活动战斗03(test)",
+        "value": 35905
+    },
+    {
+        "label": "3.7骰子地城01(test)",
+        "value": 35906
+    },
+    {
+        "label": "3.7骰子地城02(test)",
+        "value": 35907
+    },
+    {
+        "label": "3.7骰子地城03(test)",
+        "value": 35908
+    },
+    {
+        "label": "3.7骰子地城04(test)",
+        "value": 35909
+    },
+    {
+        "label": "(test)3.6爆炸魔药活动1",
+        "value": 35910
+    },
+    {
+        "label": "(test)3.6爆炸魔药活动2",
+        "value": 35911
+    },
+    {
+        "label": "(test)3.6爆炸魔药活动3",
+        "value": 35912
+    },
+    {
+        "label": "(test)3.6爆炸魔药活动4",
+        "value": 35913
+    },
+    {
+        "label": "(test)3.8大活动战斗地城1",
+        "value": 35914
+    },
+    {
+        "label": "(test)3.8大活动战斗地城2",
+        "value": 35915
+    },
+    {
+        "label": "(test)3.8大活动战斗地城3",
+        "value": 35916
+    },
+    {
+        "label": "(test)3.8大活动战斗地城4",
+        "value": 35917
+    },
+    {
+        "label": "3.8多角色战斗地城01难度4(test)",
+        "value": 35918
+    },
+    {
+        "label": "3.8多角色战斗地城02难度4(test)",
+        "value": 35919
+    },
+    {
+        "label": "3.8多角色战斗地城03难度4(test)",
+        "value": 35920
+    },
+    {
+        "label": "3.8多角色战斗地城04难度4(test)",
+        "value": 35921
+    },
+    {
+        "label": "3.8多角色战斗地城05难度4(test)",
+        "value": 35922
+    },
+    {
+        "label": "调查遗迹深处的骚动(test)",
+        "value": 40001
+    },
+    {
+        "label": "Level_UCDungeon01",
+        "value": 40002
+    },
+    {
+        "label": "Level_UCDungeon01",
+        "value": 40003
+    },
+    {
+        "label": "Level_KaeyaTutorialMission02",
+        "value": 40004
+    },
+    {
+        "label": "Level_KaeyaTutorialMission01",
+        "value": 40005
+    },
+    {
+        "label": "Level_KaeyaTutorialMission01",
+        "value": 40006
+    },
+    {
+        "label": "探索：失陷的城塞",
+        "value": 40007
+    },
+    {
+        "label": "凯亚挑战本测试(test)",
+        "value": 40008
+    },
+    {
+        "label": "安柏教学本挑战本(test)",
+        "value": 40009
+    },
+    {
+        "label": "Level_AmborTutorialMission01",
+        "value": 40010
+    },
+    {
+        "label": "Level_LisaTutorialMission03",
+        "value": 40012
+    },
+    {
+        "label": "安柏地城个人挑战二阶(test)",
+        "value": 40013
+    },
+    {
+        "label": "丽莎挑战测试(test)",
+        "value": 40014
+    },
+    {
+        "label": "寻访·水月侠行记",
+        "value": 40015
+    },
+    {
+        "label": "寻访·桃源逗留记",
+        "value": 40016
+    },
+    {
+        "label": "云海挑战玩法测试2(test)",
+        "value": 40017
+    },
+    {
+        "label": "壶中天挑战测试2(test)",
+        "value": 40018
+    },
+    {
+        "label": "寻访·霞蔚征涛记",
+        "value": 40019
+    },
+    {
+        "label": "寻访·云蒸奇遇记",
+        "value": 40020
+    },
+    {
+        "label": "无相雷挑战(test)",
+        "value": 40021
+    },
+    {
+        "label": "间奏曲·暴风之蝶 I",
+        "value": 40022
+    },
+    {
+        "label": "协奏曲·紫电之光 I",
+        "value": 40023
+    },
+    {
+        "label": "奏鸣曲·磐石之心 I",
+        "value": 40024
+    },
+    {
+        "label": "大地、风与雷的圆舞曲",
+        "value": 40025
+    },
+    {
+        "label": "元素试炼：蒸发",
+        "value": 40026
+    },
+    {
+        "label": "间奏曲·暴风之蝶 II",
+        "value": 40027
+    },
+    {
+        "label": "协奏曲·紫电之光 II",
+        "value": 40028
+    },
+    {
+        "label": "奏鸣曲·磐石之心 II",
+        "value": 40029
+    },
+    {
+        "label": "元素试炼：融化",
+        "value": 40030
+    },
+    {
+        "label": "元素试炼：超载",
+        "value": 40031
+    },
+    {
+        "label": "元素试炼：超导",
+        "value": 40032
+    },
+    {
+        "label": "元素试炼：感电",
+        "value": 40033
+    },
+    {
+        "label": "元素试炼：冻结",
+        "value": 40034
+    },
+    {
+        "label": "元素试炼：结晶",
+        "value": 40035
+    },
+    {
+        "label": "元素试炼：扩散",
+        "value": 40036
+    },
+    {
+        "label": "演武：古岩之若龙·其之一",
+        "value": 40037
+    },
+    {
+        "label": "演武：古岩之若龙·其之二",
+        "value": 40038
+    },
+    {
+        "label": "斗剧：机巧无常对剑·其之一",
+        "value": 40039
+    },
+    {
+        "label": "斗剧：机巧无常对剑·其之二",
+        "value": 40040
+    },
+    {
+        "label": "浪曲：苦水嗟恨·其之一",
+        "value": 40041
+    },
+    {
+        "label": "浪曲：苦水嗟恨·其之二",
+        "value": 40042
+    },
+    {
+        "label": "风来坊，三番胜负！",
+        "value": 40043
+    },
+    {
+        "label": "稽古·千扉绘卷",
+        "value": 40044
+    },
+    {
+        "label": "稽古·御馆绘卷",
+        "value": 40045
+    },
+    {
+        "label": "BOSS挑战深测地城(test)",
+        "value": 40046
+    },
+    {
+        "label": "稽古·恶王亭",
+        "value": 40047
+    },
+    {
+        "label": "稽古·御前府邸",
+        "value": 40048
+    },
+    {
+        "label": "稽古·砺伏之巢床",
+        "value": 40049
+    },
+    {
+        "label": "弃屋之底",
+        "value": 40050
+    },
+    {
+        "label": "颠倒梦想的丛林",
+        "value": 40051
+    },
+    {
+        "label": "晴雨自性",
+        "value": 40052
+    },
+    {
+        "label": "梵蕈同一",
+        "value": 40053
+    },
+    {
+        "label": "灵树之馆",
+        "value": 40054
+    },
+    {
+        "label": "『标准乐谱』模式的『奏鸣曲·霜锐之阵』",
+        "value": 40055
+    },
+    {
+        "label": "『标准乐谱』模式的『三部曲·燃灼之炉』",
+        "value": 40056
+    },
+    {
+        "label": "『标准乐谱』模式的『谐谑曲·束浪之池』",
+        "value": 40057
+    },
+    {
+        "label": "『标准乐谱』模式的『回旋曲·森郁之笼』",
+        "value": 40058
+    },
+    {
+        "label": "『激奏乐谱』模式的『奏鸣曲·霜锐之阵』",
+        "value": 40059
+    },
+    {
+        "label": "『激奏乐谱』模式的『三部曲·燃灼之炉』",
+        "value": 40060
+    },
+    {
+        "label": "『激奏乐谱』模式的『谐谑曲·束浪之池』",
+        "value": 40061
+    },
+    {
+        "label": "『激奏乐谱』模式的『回旋曲·森郁之笼』",
+        "value": 40062
+    },
+    {
+        "label": "亡者的叹息",
+        "value": 40063
+    },
+    {
+        "label": "渐逝的冥想",
+        "value": 40064
+    },
+    {
+        "label": "甘霖地海",
+        "value": 40065
+    },
+    {
+        "label": "静寂的斋所",
+        "value": 40066
+    },
+    {
+        "label": "(test)3.7风来人1",
+        "value": 40067
+    },
+    {
+        "label": "(test)3.7风来人2",
+        "value": 40068
+    },
+    {
+        "label": "(test)3.7风来人3",
+        "value": 40069
+    },
+    {
+        "label": "(test)3.7风来人4",
+        "value": 40070
+    },
+    {
+        "label": "精通秘境：焚尽之环 I",
+        "value": 40100
+    },
+    {
+        "label": "精通秘境：焚尽之环 II",
+        "value": 40101
+    },
+    {
+        "label": "精通秘境：焚尽之环 III",
+        "value": 40102
+    },
+    {
+        "label": "Level_CycleDungeon01_Fire",
+        "value": 40103
+    },
+    {
+        "label": "Level_CycleDungeon01_Fire",
+        "value": 40104
+    },
+    {
+        "label": "精通秘境：焚尽之环 IV",
+        "value": 40105
+    },
+    {
+        "label": "精通秘境：沉睡之国 I",
+        "value": 40200
+    },
+    {
+        "label": "精通秘境：沉睡之国 II",
+        "value": 40201
+    },
+    {
+        "label": "精通秘境：沉睡之国 III",
+        "value": 40202
+    },
+    {
+        "label": "精通秘境：沉睡之国 IV",
+        "value": 40203
+    },
+    {
+        "label": "炼武秘境：渴水的废都 I",
+        "value": 40300
+    },
+    {
+        "label": "炼武秘境：渴水的废都 II",
+        "value": 40301
+    },
+    {
+        "label": "炼武秘境：渴水的废都 III",
+        "value": 40302
+    },
+    {
+        "label": "炼武秘境：渴水的废都 IV",
+        "value": 40303
+    },
+    {
+        "label": "炼武秘境：古雷试炼场 I",
+        "value": 40400
+    },
+    {
+        "label": "炼武秘境：古雷试炼场 II",
+        "value": 40401
+    },
+    {
+        "label": "炼武秘境：古雷试炼场 III",
+        "value": 40402
+    },
+    {
+        "label": "炼武秘境：古雷试炼场 IV",
+        "value": 40403
+    },
+    {
+        "label": "祝圣秘境：告死之霜 I",
+        "value": 40404
+    },
+    {
+        "label": "Level_CycleDungeon01_Thunder",
+        "value": 40405
+    },
+    {
+        "label": "Level_CycleDungeon01_Thunder",
+        "value": 40406
+    },
+    {
+        "label": "Level_CycleDungeon01_Thunder",
+        "value": 40407
+    },
+    {
+        "label": "祝圣秘境：告死之霜 II",
+        "value": 40408
+    },
+    {
+        "label": "祝圣秘境：告死之霜 III",
+        "value": 40409
+    },
+    {
+        "label": "祝圣秘境：告死之霜 IV",
+        "value": 40410
+    },
+    {
+        "label": "祝圣秘境：净化之炎 I(test)",
+        "value": 40500
+    },
+    {
+        "label": "祝圣秘境：净化之炎 I",
+        "value": 40501
+    },
+    {
+        "label": "祝圣秘境：净化之炎 II",
+        "value": 40502
+    },
+    {
+        "label": "祝圣秘境：净化之炎 III",
+        "value": 40503
+    },
+    {
+        "label": "祝圣秘境：净化之炎 IV",
+        "value": 40504
+    },
+    {
+        "label": "祝圣秘境：净化之炎 V",
+        "value": 40505
+    },
+    {
+        "label": "祝圣秘境：净化之炎 VI",
+        "value": 40506
+    },
+    {
+        "label": "祝圣秘境：净化之炎 VIII(test)",
+        "value": 40507
+    },
+    {
+        "label": "祝圣秘境：钢铁之舞 I",
+        "value": 40508
+    },
+    {
+        "label": "祝圣秘境：钢铁之舞 II",
+        "value": 40509
+    },
+    {
+        "label": "祝圣秘境：钢铁之舞 III",
+        "value": 40510
+    },
+    {
+        "label": "祝圣秘境：钢铁之舞 IV",
+        "value": 40511
+    },
+    {
+        "label": "祝圣秘境：钢铁之舞 V",
+        "value": 40512
+    },
+    {
+        "label": "祝圣秘境：炽炎与寒霜 VI(test)",
+        "value": 40513
+    },
+    {
+        "label": "祝圣秘境：不移 I",
+        "value": 40514
+    },
+    {
+        "label": "祝圣秘境：不移 II",
+        "value": 40515
+    },
+    {
+        "label": "祝圣秘境：不移 III",
+        "value": 40516
+    },
+    {
+        "label": "祝圣秘境：不移 IV",
+        "value": 40517
+    },
+    {
+        "label": "祝圣秘境：惊蛰 I",
+        "value": 40600
+    },
+    {
+        "label": "祝圣秘境：惊蛰 II",
+        "value": 40601
+    },
+    {
+        "label": "祝圣秘境：惊蛰 III",
+        "value": 40602
+    },
+    {
+        "label": "祝圣秘境：惊蛰 IV",
+        "value": 40603
+    },
+    {
+        "label": "祝圣秘境：惊蛰 V",
+        "value": 40604
+    },
+    {
+        "label": "祝圣秘境：惊蛰 VI",
+        "value": 40605
+    },
+    {
+        "label": "祝圣秘境：惊蛰的霜雷 VII(test)",
+        "value": 40606
+    },
+    {
+        "label": "祝圣秘境：寒霜 I",
+        "value": 40607
+    },
+    {
+        "label": "祝圣秘境：寒霜 II",
+        "value": 40608
+    },
+    {
+        "label": "祝圣秘境：寒霜 III",
+        "value": 40609
+    },
+    {
+        "label": "祝圣秘境：寒霜 IV",
+        "value": 40610
+    },
+    {
+        "label": "祝圣秘境：还寒的雪水 V(test)",
+        "value": 40611
+    },
+    {
+        "label": "祝圣秘境：岩牢 I",
+        "value": 40612
+    },
+    {
+        "label": "祝圣秘境：岩牢 II",
+        "value": 40613
+    },
+    {
+        "label": "祝圣秘境：岩牢 III",
+        "value": 40614
+    },
+    {
+        "label": "祝圣秘境：岩牢 IV(test)",
+        "value": 40615
+    },
+    {
+        "label": "璃月-预留(test)",
+        "value": 40616
+    },
+    {
+        "label": "祝圣秘境：机巢 I",
+        "value": 40617
+    },
+    {
+        "label": "祝圣秘境：机巢 II",
+        "value": 40618
+    },
+    {
+        "label": "祝圣秘境：机巢 III",
+        "value": 40619
+    },
+    {
+        "label": "祝圣秘境：机巢 IV",
+        "value": 40620
+    },
+    {
+        "label": "祝圣秘境：七识 I",
+        "value": 40650
+    },
+    {
+        "label": "祝圣秘境：七识 II",
+        "value": 40651
+    },
+    {
+        "label": "祝圣秘境：七识 III",
+        "value": 40652
+    },
+    {
+        "label": "祝圣秘境：七识 IV",
+        "value": 40653
+    },
+    {
+        "label": "祝圣秘境：沙中孤城 I",
+        "value": 40660
+    },
+    {
+        "label": "祝圣秘境：沙中孤城 II",
+        "value": 40661
+    },
+    {
+        "label": "祝圣秘境：沙中孤城 III",
+        "value": 40662
+    },
+    {
+        "label": "祝圣秘境：沙中孤城 IV",
+        "value": 40663
+    },
+    {
+        "label": "祝圣秘境：遗世边垒 I",
+        "value": 40664
+    },
+    {
+        "label": "祝圣秘境：遗世边垒 II",
+        "value": 40665
+    },
+    {
+        "label": "祝圣秘境：遗世边垒 III",
+        "value": 40666
+    },
+    {
+        "label": "祝圣秘境：遗世边垒 IV",
+        "value": 40667
+    },
+    {
+        "label": "Level_CycleDungeon01_Rock",
+        "value": 40700
+    },
+    {
+        "label": "Level_CycleDungeon01_Rock",
+        "value": 40701
+    },
+    {
+        "label": "Level_CycleDungeon01_Rock",
+        "value": 40702
+    },
+    {
+        "label": "Level_CycleDungeon01_Rock",
+        "value": 40703
+    },
+    {
+        "label": "精通秘境：律藏 I",
+        "value": 40750
+    },
+    {
+        "label": "精通秘境：律藏 II",
+        "value": 40751
+    },
+    {
+        "label": "精通秘境：律藏 III",
+        "value": 40752
+    },
+    {
+        "label": "精通秘境：律藏 IV",
+        "value": 40753
+    },
+    {
+        "label": "炼武秘境：引业 I",
+        "value": 40754
+    },
+    {
+        "label": "炼武秘境：引业 II",
+        "value": 40755
+    },
+    {
+        "label": "炼武秘境：引业 III",
+        "value": 40756
+    },
+    {
+        "label": "炼武秘境：引业 IV",
+        "value": 40757
+    },
+    {
+        "label": "精通秘境：琅诵 I",
+        "value": 40760
+    },
+    {
+        "label": "精通秘境：琅诵 II",
+        "value": 40761
+    },
+    {
+        "label": "精通秘境：琅诵 III",
+        "value": 40762
+    },
+    {
+        "label": "精通秘境：琅诵 IV",
+        "value": 40763
+    },
+    {
+        "label": "炼武秘境：奇械 I",
+        "value": 40770
+    },
+    {
+        "label": "炼武秘境：奇械 II",
+        "value": 40771
+    },
+    {
+        "label": "炼武秘境：奇械 III",
+        "value": 40772
+    },
+    {
+        "label": "炼武秘境：奇械 IV",
+        "value": 40773
+    },
+    {
+        "label": "祝圣秘境：谐律 I",
+        "value": 40780
+    },
+    {
+        "label": "祝圣秘境：谐律 II",
+        "value": 40781
+    },
+    {
+        "label": "祝圣秘境：谐律 III",
+        "value": 40782
+    },
+    {
+        "label": "祝圣秘境：谐律 IV",
+        "value": 40783
+    },
+    {
+        "label": "Level_CycleDungeon02_ThunderCave_Dq",
+        "value": 40800
+    },
+    {
+        "label": "祝圣秘境：椛狩 I",
+        "value": 40801
+    },
+    {
+        "label": "祝圣秘境：椛狩 II",
+        "value": 40802
+    },
+    {
+        "label": "祝圣秘境：椛狩 III",
+        "value": 40803
+    },
+    {
+        "label": "祝圣秘境：椛狩 IV",
+        "value": 40804
+    },
+    {
+        "label": "Level_CycleDungeon01_Thunder",
+        "value": 40805
+    },
+    {
+        "label": "祝圣秘境：骸馆 I",
+        "value": 40806
+    },
+    {
+        "label": "祝圣秘境：骸馆 II",
+        "value": 40807
+    },
+    {
+        "label": "祝圣秘境：骸馆 III",
+        "value": 40808
+    },
+    {
+        "label": "祝圣秘境：骸馆 IV",
+        "value": 40809
+    },
+    {
+        "label": "炼武秘境：流沙之葬 I",
+        "value": 40900
+    },
+    {
+        "label": "炼武秘境：流沙之葬 II",
+        "value": 40901
+    },
+    {
+        "label": "炼武秘境：流沙之葬 III",
+        "value": 40902
+    },
+    {
+        "label": "炼武秘境：流沙之葬 IV",
+        "value": 40903
+    },
+    {
+        "label": "精通秘境：真葛废都 I",
+        "value": 40950
+    },
+    {
+        "label": "精通秘境：真葛废都 II",
+        "value": 40951
+    },
+    {
+        "label": "精通秘境：真葛废都 III",
+        "value": 40952
+    },
+    {
+        "label": "精通秘境：真葛废都 IV",
+        "value": 40953
+    },
+    {
+        "label": "角色试玩关-温迪(test)",
+        "value": 41000
+    },
+    {
+        "label": "角色试玩关-芭芭拉(test)",
+        "value": 41001
+    },
+    {
+        "label": "角色试玩关-菲谢尔(test)",
+        "value": 41002
+    },
+    {
+        "label": "角色试玩关-可莉(test)",
+        "value": 41003
+    },
+    {
+        "label": "角色试玩关-行秋(test)",
+        "value": 41004
+    },
+    {
+        "label": "角色试玩关-砂糖(test)",
+        "value": 41005
+    },
+    {
+        "label": "角色试玩关-公子(test)",
+        "value": 41006
+    },
+    {
+        "label": "角色试玩关-辛焱(test)",
+        "value": 41007
+    },
+    {
+        "label": "角色试玩关-北斗(test)",
+        "value": 41008
+    },
+    {
+        "label": "角色试玩关-重云(test)",
+        "value": 41009
+    },
+    {
+        "label": "角色试玩关-钟离(test)",
+        "value": 41010
+    },
+    {
+        "label": "角色试玩关-迪奥娜(test)",
+        "value": 41011
+    },
+    {
+        "label": "角色试玩关-凝光(test)",
+        "value": 41012
+    },
+    {
+        "label": "角色试玩关-雷泽(test)",
+        "value": 41013
+    },
+    {
+        "label": "角色试玩关-甘雨(test)",
+        "value": 41014
+    },
+    {
+        "label": "角色试玩关-阿贝多(test)",
+        "value": 41015
+    },
+    {
+        "label": "角色试玩关-行秋(test)",
+        "value": 41016
+    },
+    {
+        "label": "角色试玩关-菲谢尔(test)",
+        "value": 41017
+    },
+    {
+        "label": "角色试玩关-砂糖(test)",
+        "value": 41018
+    },
+    {
+        "label": "角色试玩关-班尼特(test)",
+        "value": 41019
+    },
+    {
+        "label": "角色试玩关-胡桃(test)",
+        "value": 41020
+    },
+    {
+        "label": "角色试玩关-魈(test)",
+        "value": 41021
+    },
+    {
+        "label": "角色试玩关-凝光(test)",
+        "value": 41022
+    },
+    {
+        "label": "角色试玩关-北斗(test)",
+        "value": 41023
+    },
+    {
+        "label": "角色试玩关-辛焱(test)",
+        "value": 41024
+    },
+    {
+        "label": "角色试玩关-班尼特(test)",
+        "value": 41025
+    },
+    {
+        "label": "角色试玩关-行秋(test)",
+        "value": 41026
+    },
+    {
+        "label": "角色试玩关-重云(test)",
+        "value": 41027
+    },
+    {
+        "label": "角色试玩关-罗莎莉亚(test)",
+        "value": 41028
+    },
+    {
+        "label": "角色试玩关-刻晴(test)",
+        "value": 41029
+    },
+    {
+        "label": "角色试玩关-迪奥娜(test)",
+        "value": 41030
+    },
+    {
+        "label": "角色试玩关-芭芭拉(test)",
+        "value": 41031
+    },
+    {
+        "label": "角色试玩关-烟绯(test)",
+        "value": 41032
+    },
+    {
+        "label": "角色试玩关-优菈(test)",
+        "value": 41033
+    },
+    {
+        "label": "角色试玩关-桐生万叶(test)",
+        "value": 41034
+    },
+    {
+        "label": "角色试玩关-神里绫华(test)",
+        "value": 41035
+    },
+    {
+        "label": "角色试玩关-宵宫(test)",
+        "value": 41036
+    },
+    {
+        "label": "角色试玩关-早柚(test)",
+        "value": 41037
+    },
+    {
+        "label": "角色试玩关-雷电将军(test)",
+        "value": 41038
+    },
+    {
+        "label": "角色试玩关-珊瑚宫心海(test)",
+        "value": 41039
+    },
+    {
+        "label": "角色试玩关-九条裟罗(test)",
+        "value": 41040
+    },
+    {
+        "label": "角色试玩关-托马(test)",
+        "value": 41041
+    },
+    {
+        "label": "角色试玩关-荒泷一斗(test)",
+        "value": 41042
+    },
+    {
+        "label": "角色试玩关-五郎(test)",
+        "value": 41043
+    },
+    {
+        "label": "角色试玩关-申鹤(test)",
+        "value": 41044
+    },
+    {
+        "label": "角色试玩关-云堇(test)",
+        "value": 41045
+    },
+    {
+        "label": "角色试玩关-八重神子(test)",
+        "value": 41046
+    },
+    {
+        "label": "角色试玩关-神里绫人(test)",
+        "value": 41047
+    },
+    {
+        "label": "角色试玩关-久岐忍(test)",
+        "value": 41048
+    },
+    {
+        "label": "角色试玩关-夜兰(test)",
+        "value": 41049
+    },
+    {
+        "label": "角色试玩关-鹿野院平藏(test)",
+        "value": 41050
+    },
+    {
+        "label": "角色试玩关-多莉(test)",
+        "value": 41051
+    },
+    {
+        "label": "角色试玩关-柯莱(test)",
+        "value": 41052
+    },
+    {
+        "label": "角色试玩关-提纳里(test)",
+        "value": 41053
+    },
+    {
+        "label": "角色试玩关-坎蒂丝(test)",
+        "value": 41054
+    },
+    {
+        "label": "角色试玩关-妮露(test)",
+        "value": 41055
+    },
+    {
+        "label": "角色试玩关-赛诺(test)",
+        "value": 41056
+    },
+    {
+        "label": "角色试玩关-莱依拉(test)",
+        "value": 41057
+    },
+    {
+        "label": "角色试玩关-纳西妲(test)",
+        "value": 41058
+    },
+    {
+        "label": "角色试玩关-流浪者(test)",
+        "value": 41059
+    },
+    {
+        "label": "角色试玩关-法露珊(test)",
+        "value": 41060
+    },
+    {
+        "label": "角色试玩关-瑶瑶(test)",
+        "value": 41061
+    },
+    {
+        "label": "角色试玩关-艾尔海森(test)",
+        "value": 41062
+    },
+    {
+        "label": "角色试玩关-米卡(test)",
+        "value": 41063
+    },
+    {
+        "label": "角色试玩关-迪希雅(test)",
+        "value": 41064
+    },
+    {
+        "label": "角色试玩关-白术(test)",
+        "value": 41065
+    },
+    {
+        "label": "角色试玩关-卡维(test)",
+        "value": 41066
+    },
+    {
+        "label": "角色试玩关-绮良良(test)",
+        "value": 41067
+    },
+    {
+        "label": "角色试玩关-宵宫V2(test)",
+        "value": 41068
+    },
+    {
+        "label": "角色试玩关-烟绯V2(test)",
+        "value": 41069
+    },
+    {
+        "label": "角色试玩关-？？？(test)",
+        "value": 41070
+    },
+    {
+        "label": "角色试玩关-？？？(test)",
+        "value": 41071
+    },
+    {
+        "label": "角色试玩关-？？？(test)",
+        "value": 41072
+    },
+    {
+        "label": "角色试玩关-？？？(test)",
+        "value": 41073
+    },
+    {
+        "label": "角色试玩关-？？？(test)",
+        "value": 41074
+    },
+    {
+        "label": "角色试玩关-？？？(test)",
+        "value": 41075
+    },
+    {
+        "label": "去年双燕来还去：难度3",
+        "value": 42001
+    },
+    {
+        "label": "解鞍倚枕画仙桥：难度2",
+        "value": 42002
+    },
+    {
+        "label": "春水蛾眉各分飞：难度5",
+        "value": 42003
+    },
+    {
+        "label": "金锁重门华堂空：难度7",
+        "value": 42004
+    },
+    {
+        "label": "霓裳一曲复登楼：难度6",
+        "value": 42005
+    },
+    {
+        "label": "苇风可凋井边桐：难度1",
+        "value": 42006
+    },
+    {
+        "label": "三星参差争电光：难度4",
+        "value": 42007
+    },
+    {
+        "label": "溪山兴无尽，不见白驹来：特殊模式",
+        "value": 42008
+    },
+    {
+        "label": "解鞍倚枕画仙桥：难度3",
+        "value": 42009
+    },
+    {
+        "label": "去年双燕来还去：难度4",
+        "value": 42010
+    },
+    {
+        "label": "霓裳一曲复登楼：难度7",
+        "value": 42011
+    },
+    {
+        "label": "三星参差争电光：难度5",
+        "value": 42012
+    },
+    {
+        "label": "春水蛾眉各分飞：难度6",
+        "value": 42013
+    },
+    {
+        "label": "苇风可凋井边桐",
+        "value": 42014
+    },
+    {
+        "label": "试玩地城-下落攻击主题",
+        "value": 43001
+    },
+    {
+        "label": "试玩地城-护盾主题",
+        "value": 43002
+    },
+    {
+        "label": "试玩地城-治疗主题",
+        "value": 43003
+    },
+    {
+        "label": "试玩地城-元素反应主题",
+        "value": 43004
+    },
+    {
+        "label": "试玩地城-近战主题",
+        "value": 43005
+    },
+    {
+        "label": "试玩地城-远程主题",
+        "value": 43006
+    },
+    {
+        "label": "迷城战线二期-永冻主题(test)",
+        "value": 43007
+    },
+    {
+        "label": "迷城战线二期-魔王武装(test)",
+        "value": 43008
+    },
+    {
+        "label": "迷城战线二期-增幅(test)",
+        "value": 43009
+    },
+    {
+        "label": "迷城战线二期-剧变(test)",
+        "value": 43010
+    },
+    {
+        "label": "迷城战线二期-速充(test)",
+        "value": 43011
+    },
+    {
+        "label": "迷城战线二期-扩散(test)",
+        "value": 43012
+    },
+    {
+        "label": "迷城战线二期-BOSS战(test)",
+        "value": 43013
+    },
+    {
+        "label": "龙蜥安眠之穴",
+        "value": 44001
+    },
+    {
+        "label": "暗影蠢动之地",
+        "value": 44002
+    },
+    {
+        "label": "冰蚀霜侵之处",
+        "value": 44003
+    },
+    {
+        "label": "诡爆之境",
+        "value": 44004
+    },
+    {
+        "label": "混沌之境",
+        "value": 44005
+    },
+    {
+        "label": "雷怒之境",
+        "value": 44006
+    },
+    {
+        "label": "邪从之境",
+        "value": 44007
+    },
+    {
+        "label": "诡境·垂罚旋舞",
+        "value": 44011
+    },
+    {
+        "label": "诡境·血狼集群",
+        "value": 44012
+    },
+    {
+        "label": "诡境·幽浮之海",
+        "value": 44013
+    },
+    {
+        "label": "枕仙桥",
+        "value": 45000
+    },
+    {
+        "label": "双燕来",
+        "value": 45001
+    },
+    {
+        "label": "枕仙桥",
+        "value": 45002
+    },
+    {
+        "label": "井生秋",
+        "value": 45003
+    },
+    {
+        "label": "春几回",
+        "value": 45004
+    },
+    {
+        "label": "梦登楼",
+        "value": 45005
+    },
+    {
+        "label": "Level_PFDungeon02_ReActive06",
+        "value": 45006
+    },
+    {
+        "label": "梦登楼",
+        "value": 45007
+    },
+    {
+        "label": "双燕来",
+        "value": 45008
+    },
+    {
+        "label": "枕仙桥",
+        "value": 45009
+    },
+    {
+        "label": "井生秋",
+        "value": 45010
+    },
+    {
+        "label": "春几回",
+        "value": 45011
+    },
+    {
+        "label": "梦登楼",
+        "value": 45012
+    },
+    {
+        "label": "塔防残局01(test)",
+        "value": 45013
+    },
+    {
+        "label": "塔防残局02(test)",
+        "value": 45014
+    },
+    {
+        "label": "塔防残局03(test)",
+        "value": 45015
+    },
+    {
+        "label": "塔防残局04(test)",
+        "value": 45016
+    },
+    {
+        "label": "塔防残局01(test)困难",
+        "value": 45017
+    },
+    {
+        "label": "塔防残局02(test)困难",
+        "value": 45018
+    },
+    {
+        "label": "塔防残局03(test)困难",
+        "value": 45019
+    },
+    {
+        "label": "塔防残局04(test)困难",
+        "value": 45020
+    },
+    {
+        "label": "叠楼",
+        "value": 45050
+    },
+    {
+        "label": "长廊",
+        "value": 45051
+    },
+    {
+        "label": "回巷",
+        "value": 45052
+    },
+    {
+        "label": "联屋",
+        "value": 45053
+    },
+    {
+        "label": "UGC摆放白盒（test）",
+        "value": 45054
+    },
+    {
+        "label": "出口在高点",
+        "value": 45055
+    },
+    {
+        "label": "飞跃长走廊",
+        "value": 45056
+    },
+    {
+        "label": "高空坠物",
+        "value": 45057
+    },
+    {
+        "label": "快点，再快点！",
+        "value": 45058
+    },
+    {
+        "label": "手快者得",
+        "value": 45059
+    },
+    {
+        "label": "机巧阵陔",
+        "value": 46001
+    },
+    {
+        "label": "挑战·犬流之道",
+        "value": 46101
+    },
+    {
+        "label": "（test)层岩地城1肉鸽高难",
+        "value": 46201
+    },
+    {
+        "label": "（test)层岩地城2肉鸽高难",
+        "value": 46202
+    },
+    {
+        "label": "（test)层岩地城3肉鸽高难",
+        "value": 46203
+    },
+    {
+        "label": "test 时停挑战1",
+        "value": 46300
+    },
+    {
+        "label": "test 时停挑战4",
+        "value": 46301
+    },
+    {
+        "label": "test 时停挑战2",
+        "value": 46302
+    },
+    {
+        "label": "test 时停挑战3",
+        "value": 46303
+    },
+    {
+        "label": "test 时停挑战5",
+        "value": 46304
+    },
+    {
+        "label": "test 时停挑战6",
+        "value": 46305
+    },
+    {
+        "label": "test 时停挑战7",
+        "value": 46306
+    },
+    {
+        "label": "Rogue地城01-1(test)",
+        "value": 47001
+    },
+    {
+        "label": "Rogue地城02-2(test)",
+        "value": 47002
+    },
+    {
+        "label": "Rogue地城03-2(test)",
+        "value": 47003
+    },
+    {
+        "label": "Rogue地城01-2(test)",
+        "value": 47004
+    },
+    {
+        "label": "Rogue地城02-1(test)",
+        "value": 47005
+    },
+    {
+        "label": "Rogue地城03-1(test)",
+        "value": 47006
+    },
+    {
+        "label": "Rogue地城04-1(test)",
+        "value": 47007
+    },
+    {
+        "label": "Rogue地城04-2(test)",
+        "value": 47008
+    },
+    {
+        "label": "Rogue地城05-1(test)",
+        "value": 47009
+    },
+    {
+        "label": "Rogue地城05-2(test)",
+        "value": 47010
+    },
+    {
+        "label": "Level_OnmyoMaze_05",
+        "value": 47011
+    },
+    {
+        "label": "TestLevel_Dq_Rouge_SLL03",
+        "value": 47012
+    },
+    {
+        "label": "Level_OnmyoMaze_03",
+        "value": 47013
+    },
+    {
+        "label": "TestLevel_Dq_Rouge_SLL05",
+        "value": 47014
+    },
+    {
+        "label": "TestLevel_Dq_Rouge_SLL06",
+        "value": 47015
+    },
+    {
+        "label": "TestLevel_Dq_Rouge_LX01",
+        "value": 47016
+    },
+    {
+        "label": "TestLevel_Dq_Rouge_LX02",
+        "value": 47017
+    },
+    {
+        "label": "TestLevel_Dq_Rouge_LX03",
+        "value": 47018
+    },
+    {
+        "label": "TestLevel_Dq_Rouge_LX04",
+        "value": 47019
+    },
+    {
+        "label": "TestLevel_Dq_Rouge_LX05",
+        "value": 47020
+    },
+    {
+        "label": "融风之境",
+        "value": 47021
+    },
+    {
+        "label": "滔风之境",
+        "value": 47022
+    },
+    {
+        "label": "熏风之境",
+        "value": 47023
+    },
+    {
+        "label": "厉风之境",
+        "value": 47024
+    },
+    {
+        "label": "巨风之境",
+        "value": 47025
+    },
+    {
+        "label": "(test) 蕈兽活动-进攻5",
+        "value": 47101
+    },
+    {
+        "label": "(test) 蕈兽活动-防守5",
+        "value": 47102
+    },
+    {
+        "label": "(test)3.2蕈兽活动剧情地城6",
+        "value": 47103
+    },
+    {
+        "label": "(test)3.3迷城复刻01",
+        "value": 47201
+    },
+    {
+        "label": "(test)3.3迷城复刻02",
+        "value": 47202
+    },
+    {
+        "label": "(test)3.3迷城复刻03",
+        "value": 47203
+    },
+    {
+        "label": "(test)3.3迷城复刻04",
+        "value": 47204
+    },
+    {
+        "label": "(test)3.3迷城复刻05",
+        "value": 47205
+    },
+    {
+        "label": "(test)3.3迷城复刻06",
+        "value": 47206
+    },
+    {
+        "label": "(test)3.3迷城复刻07",
+        "value": 47207
+    },
+    {
+        "label": "(test)3.4拼刀地城01",
+        "value": 47301
+    },
+    {
+        "label": "(test)3.4拼刀地城02",
+        "value": 47302
+    },
+    {
+        "label": "(test)3.4拼刀地城03",
+        "value": 47303
+    },
+    {
+        "label": "(test)3.4拼刀地城04",
+        "value": 47304
+    },
+    {
+        "label": "(test)3.4拼刀地城05",
+        "value": 47305
+    },
+    {
+        "label": "(test)3.4拼刀地城06",
+        "value": 47306
+    },
+    {
+        "label": "(test)3.4拼刀地剧情地城",
+        "value": 47307
+    },
+    {
+        "label": "循序之风",
+        "value": 47401
+    },
+    {
+        "label": "反卷之风",
+        "value": 47402
+    },
+    {
+        "label": "悉察之风",
+        "value": 47403
+    },
+    {
+        "label": "阻隔之风",
+        "value": 47404
+    },
+    {
+        "label": "环光之风",
+        "value": 47405
+    },
+    {
+        "label": "逐花之风",
+        "value": 47406
+    },
+    {
+        "label": "神工天巧·宝录之章",
+        "value": 47501
+    },
+    {
+        "label": "3.7UGC编辑地城（test）",
+        "value": 47502
+    },
+    {
+        "label": "test 3.7时停挑战1",
+        "value": 47601
+    },
+    {
+        "label": "test 3.7时停挑战2",
+        "value": 47602
+    },
+    {
+        "label": "test 3.7时停挑战3",
+        "value": 47603
+    },
+    {
+        "label": "test 3.7时停挑战4",
+        "value": 47604
+    },
+    {
+        "label": "test 3.7时停挑战5",
+        "value": 47605
+    },
+    {
+        "label": "test 3.7时停挑战6",
+        "value": 47606
+    },
+    {
+        "label": "test 3.7时停挑战7",
+        "value": 47607
+    },
+    {
+        "label": "3.8冒险家试炼二期",
+        "value": 47608
+    },
+    {
+        "label": "低温关卡白盒(test)",
+        "value": 50002
+    },
+    {
+        "label": "战斗性能测试(test)",
+        "value": 50003
+    },
+    {
+        "label": "电桩电源白盒(test)",
+        "value": 50004
+    },
+    {
+        "label": "Level_ElementGameplay_Test",
+        "value": 50005
+    },
+    {
+        "label": "Level_KaeyaTutorialMission02",
+        "value": 50006
+    },
+    {
+        "label": "雷之试炼(test)",
+        "value": 50007
+    },
+    {
+        "label": "关卡玩法黑盒测试(test)",
+        "value": 50008
+    },
+    {
+        "label": "关卡玩法白盒CX(test)",
+        "value": 50009
+    },
+    {
+        "label": "机关玩法白盒(test)",
+        "value": 50010
+    },
+    {
+        "label": "暂未开放(test)",
+        "value": 50011
+    },
+    {
+        "label": "扩散试炼(test)",
+        "value": 50012
+    },
+    {
+        "label": "燃烧融化试炼(test)",
+        "value": 50013
+    },
+    {
+        "label": "怪物元素对抗地城(test)",
+        "value": 50014
+    },
+    {
+        "label": "关卡测试(test)",
+        "value": 50015
+    },
+    {
+        "label": "新角色Pattern白盒(test)",
+        "value": 50016
+    },
+    {
+        "label": "若陀龙王Boss战(test)",
+        "value": 50017
+    },
+    {
+        "label": "守护玩法白盒测试(test)",
+        "value": 50018
+    },
+    {
+        "label": "岩元素白盒测试(test)",
+        "value": 50019
+    },
+    {
+        "label": "美术测试test1(test)",
+        "value": 50020
+    },
+    {
+        "label": "LevelTest_TestTest_WG",
+        "value": 50021
+    },
+    {
+        "label": "TA测试关卡(test)",
+        "value": 50022
+    },
+    {
+        "label": "随机圈球测试关卡1(test)",
+        "value": 50023
+    },
+    {
+        "label": "随机圈球测试关卡2(test)",
+        "value": 50024
+    },
+    {
+        "label": "圣遗物新因子测试关卡1(test)",
+        "value": 50025
+    },
+    {
+        "label": "圣遗物新因子测试关卡2(test)",
+        "value": 50026
+    },
+    {
+        "label": "圣遗物新因子测试关卡3(test)",
+        "value": 50027
+    },
+    {
+        "label": "火之高兴-测试(test)",
+        "value": 50028
+    },
+    {
+        "label": "塔防玩法测试(test)",
+        "value": 50029
+    },
+    {
+        "label": "塔防玩法测试2(test)",
+        "value": 50030
+    },
+    {
+        "label": "龙王BOSS测试(test)",
+        "value": 50031
+    },
+    {
+        "label": "Level_PFDungeon02_Active03",
+        "value": 50032
+    },
+    {
+        "label": "Level_PFDungeon02_Active04",
+        "value": 50033
+    },
+    {
+        "label": "Level_PFDungeon02_Active05",
+        "value": 50034
+    },
+    {
+        "label": "lx关卡测试",
+        "value": 50041
+    },
+    {
+        "label": "活动地板测试关卡",
+        "value": 50042
+    },
+    {
+        "label": "风花节活动测试关卡1(test)",
+        "value": 50043
+    },
+    {
+        "label": "风花节活动测试关卡2(test)",
+        "value": 50044
+    },
+    {
+        "label": "塌陷地板白盒(test)",
+        "value": 50045
+    },
+    {
+        "label": "擂台挑战白盒(test)",
+        "value": 50046
+    },
+    {
+        "label": "记忆道路白盒(test)",
+        "value": 50047
+    },
+    {
+        "label": "塌陷6x6地板白盒(test)",
+        "value": 50048
+    },
+    {
+        "label": "塌陷地板回字型白盒(test)",
+        "value": 50049
+    },
+    {
+        "label": "1.5测试关卡(test)",
+        "value": 50050
+    },
+    {
+        "label": "1.5试玩活动测试（test）",
+        "value": 50051
+    },
+    {
+        "label": "羽球活动联机测试(test)",
+        "value": 50052
+    },
+    {
+        "label": "Level_LadyBoss01",
+        "value": 50053
+    },
+    {
+        "label": "BOSS挑战复刻测试(test)",
+        "value": 50054
+    },
+    {
+        "label": "Rouge地城白盒(test)",
+        "value": 50055
+    },
+    {
+        "label": "Rouge白盒yqt01(test)",
+        "value": 50056
+    },
+    {
+        "label": "TestLevel_Dq_Rouge_YQT02",
+        "value": 50057
+    },
+    {
+        "label": "2.1影深测地城（test）",
+        "value": 50058
+    },
+    {
+        "label": "TestLevelSLL_SpringFestival",
+        "value": 50059
+    },
+    {
+        "label": "TestLevel_Dq_UGC_LX01",
+        "value": 50060
+    },
+    {
+        "label": "怪物性能测试（test）",
+        "value": 50061
+    },
+    {
+        "label": "TestLevel_Dq_UGC_LX02",
+        "value": 50062
+    },
+    {
+        "label": "TestLevel_Dq_UGC_LX03",
+        "value": 50063
+    },
+    {
+        "label": "TestLevel_Dq_UGC_LX04",
+        "value": 50064
+    },
+    {
+        "label": "TestLevel_Dq_UGC_LX05",
+        "value": 50065
+    },
+    {
+        "label": "TestLevel_FCdungeon_ShenheCloud01",
+        "value": 50066
+    },
+    {
+        "label": "场景测试白盒(test)",
+        "value": 50067
+    },
+    {
+        "label": "Level_Tower_01_Open",
+        "value": 50068
+    },
+    {
+        "label": "TestLevel_ClimbBox",
+        "value": 50069
+    },
+    {
+        "label": "渊下宫物件测试白盒(test)",
+        "value": 50070
+    },
+    {
+        "label": "TestWorld_APA_ZQQ",
+        "value": 50071
+    },
+    {
+        "label": "塔防V3测试(test)",
+        "value": 50072
+    },
+    {
+        "label": "PerformanceTest_LevelStreaming",
+        "value": 50073
+    },
+    {
+        "label": "须弥地城白盒(test)",
+        "value": 50074
+    },
+    {
+        "label": "须弥物件白盒(test)",
+        "value": 50075
+    },
+    {
+        "label": "(test)圆柱测试地城",
+        "value": 50076
+    },
+    {
+        "label": "Level_Tower_Moon_01",
+        "value": 50077
+    },
+    {
+        "label": "(test)2.8测试地城1",
+        "value": 50078
+    },
+    {
+        "label": "(test)2.8测试地城3",
+        "value": 50079
+    },
+    {
+        "label": "(test)2.8测试地城2",
+        "value": 50080
+    },
+    {
+        "label": "(test)2.8测试地城4",
+        "value": 50081
+    },
+    {
+        "label": "(test)2.8测试地城5",
+        "value": 50082
+    },
+    {
+        "label": "(test)2.8测试地城6",
+        "value": 50083
+    },
+    {
+        "label": "(test)2.8测试地城7",
+        "value": 50084
+    },
+    {
+        "label": "(test)2.8测试地城8",
+        "value": 50085
+    },
+    {
+        "label": "(test)2.8测试地城9",
+        "value": 50086
+    },
+    {
+        "label": "(test)2.8测试地城10",
+        "value": 50087
+    },
+    {
+        "label": "(test)2.8测试地城11",
+        "value": 50088
+    },
+    {
+        "label": "(test)2.8测试地城12",
+        "value": 50089
+    },
+    {
+        "label": "TestLevel_WhiteBox_Xm_03",
+        "value": 50090
+    },
+    {
+        "label": "Level_DahakaBoss01",
+        "value": 50091
+    },
+    {
+        "label": "(test)风场地城测试01",
+        "value": 50092
+    },
+    {
+        "label": "(test)风场地城测试04",
+        "value": 50093
+    },
+    {
+        "label": "测试秘境 I",
+        "value": 50094
+    },
+    {
+        "label": "测试秘境 II",
+        "value": 50095
+    },
+    {
+        "label": "测试秘境 III",
+        "value": 50096
+    },
+    {
+        "label": "测试秘境 IV",
+        "value": 50097
+    },
+    {
+        "label": "测试秘境 V",
+        "value": 50098
+    },
+    {
+        "label": "测试秘境 VI",
+        "value": 50099
+    },
+    {
+        "label": "(test)4.0枫丹水域测试白盒-枫丹旧城",
+        "value": 50100
+    },
+    {
+        "label": "(test)4.0枫丹水域测试白盒-巨神",
+        "value": 50101
+    },
+    {
+        "label": "(test)4.0枫丹水域测试白盒-洋流",
+        "value": 50102
+    },
+    {
+        "label": "测试秘境 VII",
+        "value": 51000
+    },
+    {
+        "label": "测试秘境 VIII",
+        "value": 51001
+    },
+    {
+        "label": "测试秘境 IX",
+        "value": 51002
+    },
+    {
+        "label": "测试秘境 X",
+        "value": 51003
+    },
+    {
+        "label": "测试秘境 XI",
+        "value": 51004
+    },
+    {
+        "label": "测试秘境 XII",
+        "value": 51005
+    },
+    {
+        "label": "新人流程测试白盒(test)",
+        "value": 51006
+    },
+    {
+        "label": "镜像大世界测试(test)",
+        "value": 51007
+    },
+    {
+        "label": "(test)奇趣秘园2.0",
+        "value": 51008
+    },
+    {
+        "label": "(test) 蕈兽活动战斗白盒",
+        "value": 51009
+    },
+    {
+        "label": "(test)LCM测试秘境",
+        "value": 51010
+    },
+    {
+        "label": "TestLevel_WhiteBox_Xm_04",
+        "value": 51011
+    },
+    {
+        "label": "TestLevel_Xm_CircusTent",
+        "value": 51012
+    },
+    {
+        "label": "(test)须弥单线白盒",
+        "value": 51013
+    },
+    {
+        "label": "(test) 蕈兽二期活动战斗白盒",
+        "value": 51014
+    },
+    {
+        "label": "(test)吃豆人白盒",
+        "value": 51015
+    },
+    {
+        "label": "TestLevel_FD_4.6_YYL",
+        "value": 51016
+    },
+    {
+        "label": "Level_Cycle01_XM04",
+        "value": 51017
+    },
+    {
+        "label": "(test)迪希雅个人线白盒",
+        "value": 51018
+    },
+    {
+        "label": "(test)任务地城白盒",
+        "value": 51019
+    },
+    {
+        "label": "TestLevel_3.7UGC_GJH",
+        "value": 51020
+    },
+    {
+        "label": "Level_CustomLevel_A_05",
+        "value": 51021
+    },
+    {
+        "label": "Level_CustomLevel_A_05",
+        "value": 51022
+    },
+    {
+        "label": "枫丹地城白盒(test)",
+        "value": 51023
+    },
+    {
+        "label": "3.7UGC物件测试白盒(test)",
+        "value": 51024
+    },
+    {
+        "label": "3.7UGC先行地城-塔防(test)",
+        "value": 51026
+    },
+    {
+        "label": "3.7UGC先行地城-生存(test)",
+        "value": 51027
+    },
+    {
+        "label": "3.7UGC先行地城-增幅器营地(test)",
+        "value": 51028
+    },
+    {
+        "label": "3.8怪物性能测试（test）",
+        "value": 51031
+    },
+    {
+        "label": "TestLevel_Whitebox_MQL",
+        "value": 51032
+    },
+    {
+        "label": "测试秘境 XIII",
+        "value": 51037
+    },
+    {
+        "label": "Level_Tower_Moon_01",
+        "value": 51038
+    },
+    {
+        "label": "(test)卡牌观战场景",
+        "value": 79999
+    }
+]
