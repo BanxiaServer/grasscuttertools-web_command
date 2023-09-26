@@ -1,7 +1,7 @@
 # GrasscutterTools
 
 ## 在线访问
-[GrasscutterTools](https://wmn1525.github.io/grasscutterTools/dist/index.html#/start/holyrelic)
+[http://cmd.bxgov.cn/](http://cmd.bxgov.cn/)
 
 ## 安装依赖
 `
@@ -17,3 +17,5 @@ npm run dev
 `
 npm run build:pro
 `
+
+打包后可以使用如: nginx/宝塔/虚拟主机 进行访问
